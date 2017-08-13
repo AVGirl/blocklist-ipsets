@@ -122,8 +122,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 83,
-		"common": 13
+		"ips": 103,
+		"common": 14
 	},
 	{
 		"name": "bambenek_c2",
@@ -140,7 +140,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 126,
+		"ips": 122,
 		"common": 19
 	},
 	{
@@ -242,19 +242,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7444,
-		"common": 503
+		"ips": 7428,
+		"common": 501
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9025,
+		"ips": 9030,
 		"common": 544
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28820,
+		"ips": 28818,
 		"common": 992
 	},
 	{
@@ -968,8 +968,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740157,
-		"common": 7440846
+		"ips": 34740096,
+		"common": 7440837
 	},
 	{
 		"name": "fullbogons",
@@ -1400,8 +1400,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 3287,
-		"common": 167
+		"ips": 3222,
+		"common": 153
 	},
 	{
 		"name": "nixspam",
@@ -1988,14 +1988,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 106,
+		"ips": 107,
 		"common": 9
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 69,
-		"common": 2
+		"ips": 120,
+		"common": 16
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 64,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",

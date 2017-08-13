@@ -92,19 +92,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7444,
-		"common": 8
+		"ips": 7428,
+		"common": 7
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9025,
+		"ips": 9030,
 		"common": 9
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28820,
+		"ips": 28818,
 		"common": 41
 	},
 	{
@@ -638,8 +638,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740157,
-		"common": 24026
+		"ips": 34740096,
+		"common": 24005
 	},
 	{
 		"name": "fullbogons",
@@ -1028,8 +1028,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 3287,
-		"common": 835
+		"ips": 3222,
+		"common": 810
 	},
 	{
 		"name": "nixspam",
@@ -1568,8 +1568,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 106,
+		"ips": 107,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 120,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 64,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_telnet",

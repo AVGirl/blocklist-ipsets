@@ -18,6 +18,12 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_necurs",
+		"category": "malware",
+		"ips": 13,
+		"common": 1
+	},
+	{
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268567,
@@ -86,19 +92,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7444,
+		"ips": 7428,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9025,
+		"ips": 9030,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28820,
+		"ips": 28818,
 		"common": 6
 	},
 	{
@@ -590,7 +596,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740157,
+		"ips": 34740096,
 		"common": 9460
 	},
 	{
@@ -824,7 +830,7 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 3287,
+		"ips": 3222,
 		"common": 34
 	},
 	{
@@ -1174,6 +1180,12 @@
 		"category": "reputation",
 		"ips": 27252,
 		"common": 76
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 120,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
