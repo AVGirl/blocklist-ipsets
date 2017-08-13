@@ -9,13 +9,7 @@
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 9570,
-		"common": 63
-	},
-	{
-		"name": "blocklist_de_imap",
-		"category": "attacks",
-		"ips": 2129,
-		"common": 1
+		"common": 64
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -30,39 +24,21 @@
 		"common": 64
 	},
 	{
+		"name": "graphiclineweb",
+		"category": "abuse",
+		"ips": 330527,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691264,
-		"common": 63
-	},
-	{
-		"name": "iblocklist_level2",
-		"category": "reputation",
-		"ips": 346612547,
-		"common": 1
-	},
-	{
-		"name": "sorbs_recent_spam",
-		"category": "spam",
-		"ips": 545338,
-		"common": 1
-	},
-	{
-		"name": "sorbs_web",
-		"category": "spam",
-		"ips": 6267285,
-		"common": 1
-	},
-	{
-		"name": "turris_greylist",
-		"category": "reputation",
-		"ips": 27252,
-		"common": 1
+		"common": 64
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 75,
-		"common": 62
+		"ips": 105,
+		"common": 59
 	}
 ]
