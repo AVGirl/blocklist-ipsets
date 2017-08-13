@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2726,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -50,19 +50,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35003,
+		"ips": 34925,
 		"common": 132
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 160,
-		"common": 1
-	},
-	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 1206,
 		"common": 1
 	},
 	{
@@ -117,13 +111,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19140,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 17320,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "dragon_http",
@@ -158,20 +152,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43117,
+		"ips": 43040,
 		"common": 132
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132216,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291406,
-		"common": 9
+		"ips": 9291339,
+		"common": 8
 	},
 	{
 		"name": "firehol_webserver",
@@ -186,16 +180,10 @@
 		"common": 48
 	},
 	{
-		"name": "greensnow",
-		"category": "attacks",
-		"ips": 1442,
-		"common": 1
-	},
-	{
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 22321,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -290,8 +278,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3361,
-		"common": 2
+		"ips": 3345,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -375,6 +363,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30579,
-		"common": 75
+		"common": 76
 	}
 ]
