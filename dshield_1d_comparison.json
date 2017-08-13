@@ -68,31 +68,31 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 3762,
+		"ips": 3761,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7455,
+		"ips": 7450,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9105,
+		"ips": 9098,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28900,
+		"ips": 28905,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14300,
+		"ips": 14302,
 		"common": 2
 	},
 	{
@@ -141,7 +141,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 22657,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -339,13 +339,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29184,
-		"common": 7168
+		"common": 6912
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 11776,
-		"common": 7168
+		"common": 6912
 	},
 	{
 		"name": "esentire_venerologvasan93_ru",
@@ -357,7 +357,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24518998,
-		"common": 3584
+		"common": 3328
 	},
 	{
 		"name": "et_compromised",
@@ -369,7 +369,7 @@
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 3584
+		"common": 3328
 	},
 	{
 		"name": "et_tor",
@@ -387,7 +387,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 268838,
-		"common": 24
+		"common": 22
 	},
 	{
 		"name": "firehol_anonymous",
@@ -404,20 +404,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40724,
-		"common": 7168
+		"ips": 40457,
+		"common": 6912
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132257,
-		"common": 7168
+		"common": 6912
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9291216,
-		"common": 34
+		"common": 33
 	},
 	{
 		"name": "firehol_proxies",
@@ -543,7 +543,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1277221,
-		"common": 100
+		"common": 55
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -573,7 +573,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3274,
-		"common": 138
+		"common": 136
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -651,13 +651,13 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 152781,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 248503,
-		"common": 26
+		"common": 24
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -669,13 +669,13 @@
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 57669,
-		"common": 15
+		"common": 13
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 355582,
-		"common": 30
+		"common": 28
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -687,7 +687,7 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 154271,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -699,7 +699,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12106,
-		"common": 120
+		"common": 118
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -747,7 +747,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 596
+		"common": 591
 	},
 	{
 		"name": "urandomusto_dns",
