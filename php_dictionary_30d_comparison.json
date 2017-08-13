@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22419,
+		"ips": 22437,
 		"common": 38
 	},
 	{
@@ -146,43 +146,49 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2227,
-		"common": 20
+		"ips": 2224,
+		"common": 21
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 23470,
-		"common": 206
+		"ips": 23490,
+		"common": 208
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121136,
+		"ips": 121140,
 		"common": 539
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60462,
+		"ips": 60455,
 		"common": 366
+	},
+	{
+		"name": "cleantalk_new",
+		"category": "abuse",
+		"ips": 251,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 702,
+		"ips": 703,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19952,
+		"ips": 19951,
 		"common": 48
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4397,
+		"ips": 4393,
 		"common": 4
 	},
 	{
@@ -194,19 +200,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 26972,
-		"common": 206
+		"ips": 27012,
+		"common": 208
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 160012,
+		"ips": 160015,
 		"common": 549
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 76801,
+		"ips": 76791,
 		"common": 371
 	},
 	{
@@ -248,8 +254,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 537472,
-		"common": 552
+		"ips": 537543,
+		"common": 553
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -308,13 +314,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29659,
-		"common": 262
+		"ips": 29676,
+		"common": 263
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268901,
+		"ips": 268902,
 		"common": 1008
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9290981,
+		"ips": 9291000,
 		"common": 204
 	},
 	{
@@ -548,8 +554,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 15761,
-		"common": 117
+		"ips": 15577,
+		"common": 119
 	},
 	{
 		"name": "packetmail_mail",
