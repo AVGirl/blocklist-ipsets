@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -20,13 +20,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33237,
+		"ips": 33223,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9575,
+		"ips": 9581,
 		"common": 6
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41839,
+		"ips": 41654,
 		"common": 19
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740096,
+		"ips": 34739881,
 		"common": 13
 	},
 	{
@@ -177,7 +177,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 655636643,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -213,7 +213,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691264,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "iblocklist_level2",
@@ -267,7 +267,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3303,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -309,7 +309,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12106,
-		"common": 33
+		"common": 37
 	},
 	{
 		"name": "trustedsec_atif",
@@ -321,7 +321,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 36
+		"common": 37
 	},
 	{
 		"name": "urandomusto_dns",
@@ -342,33 +342,27 @@
 		"common": 1
 	},
 	{
-		"name": "urandomusto_ntp",
-		"category": "attacks",
-		"ips": 134,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 106,
+		"ips": 107,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 176,
+		"ips": 201,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 352,
-		"common": 5
+		"ips": 428,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 227,
+		"ips": 226,
 		"common": 1
 	},
 	{
