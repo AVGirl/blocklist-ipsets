@@ -21,7 +21,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2726,
-		"common": 64
+		"common": 53
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -62,7 +62,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1572,
+		"ips": 1565,
 		"common": 1
 	},
 	{
@@ -80,25 +80,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7552,
+		"ips": 7541,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9076,
+		"ips": 9089,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28866,
+		"ips": 28868,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14314,
+		"ips": 14316,
 		"common": 2
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22493,
+		"ips": 22462,
 		"common": 2
 	},
 	{
@@ -267,31 +267,31 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 424,
-		"common": 148
+		"common": 134
 	},
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
-		"ips": 20,
-		"common": 6
+		"ips": 21,
+		"common": 7
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
 		"ips": 329,
-		"common": 109
+		"common": 95
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 446,
-		"common": 19
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19165,
-		"common": 28
+		"common": 12
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -300,16 +300,10 @@
 		"common": 4
 	},
 	{
-		"name": "dataplane_vncrfb",
-		"category": "attacks",
-		"ips": 512,
-		"common": 15
-	},
-	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6739,
-		"common": 2
+		"ips": 6738,
+		"common": 1
 	},
 	{
 		"name": "dragon_http",
@@ -326,8 +320,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 536216,
-		"common": 9
+		"ips": 536268,
+		"common": 8
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -351,13 +345,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29184,
-		"common": 7424
+		"common": 7168
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 11776,
-		"common": 7424
+		"common": 7168
 	},
 	{
 		"name": "esentire_venerologvasan93_ru",
@@ -369,7 +363,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24518998,
-		"common": 4096
+		"common": 3840
 	},
 	{
 		"name": "et_compromised",
@@ -381,7 +375,7 @@
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 4096
+		"common": 3840
 	},
 	{
 		"name": "et_tor",
@@ -404,37 +398,37 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38711,
+		"ips": 38763,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652478702,
+		"ips": 652472558,
 		"common": 5120
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 42067,
-		"common": 7424
+		"common": 7168
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132233,
-		"common": 7424
+		"common": 7168
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291250,
+		"ips": 9291210,
 		"common": 31
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26201,
+		"ips": 26202,
 		"common": 1
 	},
 	{
@@ -447,7 +441,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740096,
-		"common": 1541
+		"common": 1285
 	},
 	{
 		"name": "gofferje_sip",
@@ -560,7 +554,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 15885,
+		"ips": 15856,
 		"common": 2
 	},
 	{
@@ -579,7 +573,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3345,
-		"common": 156
+		"common": 149
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -615,7 +609,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1280
+		"common": 1024
 	},
 	{
 		"name": "sblam",
@@ -717,7 +711,7 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "tor_exits",
@@ -753,7 +747,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 610
+		"common": 594
 	},
 	{
 		"name": "urandomusto_dns",
@@ -771,7 +765,7 @@
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 131,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "urandomusto_rdp",
@@ -783,7 +777,7 @@
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 104,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
@@ -807,6 +801,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30579,
-		"common": 30
+		"common": 18
 	}
 ]
