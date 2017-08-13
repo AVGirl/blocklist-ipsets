@@ -32,19 +32,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32515,
+		"ips": 32423,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2115,
+		"ips": 2087,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 16908,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13093,
+		"ips": 13136,
 		"common": 1
 	},
 	{
@@ -224,7 +230,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 132347,
+		"ips": 132346,
 		"common": 1
 	},
 	{
@@ -428,7 +434,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38710,
+		"ips": 38711,
 		"common": 3
 	},
 	{
@@ -440,7 +446,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40382,
+		"ips": 40297,
 		"common": 2
 	},
 	{
@@ -452,13 +458,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291084,
+		"ips": 9291036,
 		"common": 41
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26197,
+		"ips": 26198,
 		"common": 2
 	},
 	{
