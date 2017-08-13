@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22556,
+		"ips": 22648,
 		"common": 130
 	},
 	{
@@ -200,13 +200,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14976,
+		"ips": 14979,
 		"common": 14
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4871,
+		"ips": 4875,
 		"common": 1
 	},
 	{
@@ -246,9 +246,15 @@
 		"common": 56
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2285,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 24032,
+		"ips": 24086,
 		"common": 23
 	},
 	{
@@ -260,7 +266,7 @@
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60996,
+		"ips": 61003,
 		"common": 51
 	},
 	{
@@ -276,21 +282,27 @@
 		"common": 3
 	},
 	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 27526,
+		"ips": 27586,
 		"common": 23
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 160541,
+		"ips": 160548,
 		"common": 144
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 77510,
+		"ips": 77527,
 		"common": 51
 	},
 	{
@@ -596,13 +608,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29651,
+		"ips": 29752,
 		"common": 41
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 269862,
+		"ips": 269870,
 		"common": 854
 	},
 	{
@@ -620,7 +632,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43351,
+		"ips": 43333,
 		"common": 249
 	},
 	{
@@ -632,7 +644,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291310,
+		"ips": 9291397,
 		"common": 854
 	},
 	{
@@ -680,7 +692,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1481,
+		"ips": 1454,
 		"common": 19
 	},
 	{
@@ -920,8 +932,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 14924,
-		"common": 68
+		"ips": 14798,
+		"common": 65
 	},
 	{
 		"name": "nt_malware_http",
