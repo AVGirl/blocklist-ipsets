@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22563,
+		"ips": 22578,
 		"common": 5
 	},
 	{
@@ -356,8 +356,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652478689,
-		"common": 87
+		"ips": 652478701,
+		"common": 89
 	},
 	{
 		"name": "firehol_level3",
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291317,
+		"ips": 9291331,
 		"common": 317
 	},
 	{
@@ -682,6 +682,12 @@
 		"category": "malware",
 		"ips": 1029,
 		"common": 10
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 15495,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
