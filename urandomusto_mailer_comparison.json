@@ -1,9 +1,15 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 32352,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 36530,
-		"common": 64
+		"common": 61
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -12,28 +18,34 @@
 		"common": 61
 	},
 	{
-		"name": "blocklist_de_imap",
-		"category": "attacks",
-		"ips": 2249,
-		"common": 3
-	},
-	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 8244,
 		"common": 61
 	},
 	{
-		"name": "dragon_http",
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 26250,
+		"common": 1
+	},
+	{
+		"name": "cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 59136,
+		"ips": 7294,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 29184,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 45130,
-		"common": 64
+		"common": 61
 	},
 	{
 		"name": "firehol_level3",
@@ -42,34 +54,46 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9290576,
+		"common": 2
+	},
+	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740087,
-		"common": 61
+		"common": 62
 	},
 	{
-		"name": "gpf_comics",
+		"name": "graphiclineweb",
 		"category": "abuse",
-		"ips": 3151,
+		"ips": 330527,
 		"common": 1
 	},
 	{
-		"name": "jigsaw_malware",
-		"category": "malware",
-		"ips": 59614,
-		"common": 3
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 26774,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 7264,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_top",
+		"category": "abuse",
+		"ips": 232,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 61
-	},
-	{
-		"name": "stopforumspam_365d",
-		"category": "abuse",
-		"ips": 355058,
-		"common": 3
+		"common": 62
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -78,9 +102,9 @@
 		"common": 61
 	},
 	{
-		"name": "threatcrowd",
-		"category": "malware",
-		"ips": 6383,
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 12233,
 		"common": 1
 	},
 	{
@@ -92,7 +116,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 66,
-		"common": 60
+		"ips": 75,
+		"common": 58
 	}
 ]

@@ -224,7 +224,7 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 8671,
+		"ips": 8670,
 		"common": 35
 	},
 	{
@@ -236,25 +236,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7364,
+		"ips": 7347,
 		"common": 34
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8952,
+		"ips": 8957,
 		"common": 35
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28759,
+		"ips": 28758,
 		"common": 60
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14304,
+		"ips": 14306,
 		"common": 41
 	},
 	{
@@ -464,50 +464,50 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2275,
+		"ips": 2279,
 		"common": 541
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 24548,
-		"common": 5129
+		"ips": 24591,
+		"common": 5141
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121757,
-		"common": 13841
+		"ips": 121758,
+		"common": 13846
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 61528,
-		"common": 9112
+		"ips": 61477,
+		"common": 9118
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 293,
-		"common": 25
+		"ips": 298,
+		"common": 27
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1032,
+		"ips": 1037,
 		"common": 81
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20166,
-		"common": 2422
+		"ips": 20164,
+		"common": 2423
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4493,
-		"common": 468
+		"ips": 4489,
+		"common": 466
 	},
 	{
 		"name": "cleantalk_top20",
@@ -519,25 +519,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 517
+		"common": 515
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 28143,
-		"common": 5865
+		"ips": 28200,
+		"common": 5879
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 160796,
-		"common": 18236
+		"ips": 160784,
+		"common": 18241
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 78262,
-		"common": 11293
+		"ips": 78176,
+		"common": 11297
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -908,14 +908,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 30130,
-		"common": 6482
+		"ips": 30181,
+		"common": 6491
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 270033,
-		"common": 18909
+		"ips": 270029,
+		"common": 18912
 	},
 	{
 		"name": "firehol_anonymous",
@@ -2018,8 +2018,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 66,
-		"common": 1
+		"ips": 75,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 62,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",

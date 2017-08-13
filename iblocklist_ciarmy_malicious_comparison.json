@@ -74,19 +74,19 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8952,
+		"ips": 8957,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28759,
+		"ips": 28758,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14304,
+		"ips": 14306,
 		"common": 1
 	},
 	{
@@ -200,43 +200,43 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2275,
+		"ips": 2279,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 24548,
+		"ips": 24591,
 		"common": 20
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121757,
+		"ips": 121758,
 		"common": 64
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 61528,
+		"ips": 61477,
 		"common": 33
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1032,
+		"ips": 1037,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20166,
+		"ips": 20164,
 		"common": 9
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4493,
+		"ips": 4489,
 		"common": 2
 	},
 	{
@@ -248,19 +248,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 28143,
+		"ips": 28200,
 		"common": 20
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 160796,
+		"ips": 160784,
 		"common": 69
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 78262,
+		"ips": 78176,
 		"common": 37
 	},
 	{
@@ -440,13 +440,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 30130,
+		"ips": 30181,
 		"common": 20
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 270033,
+		"ips": 270029,
 		"common": 73
 	},
 	{
@@ -1016,8 +1016,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 66,
-		"common": 4
+		"ips": 75,
+		"common": 14
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 62,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
