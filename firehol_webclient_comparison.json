@@ -68,7 +68,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 113,
+		"ips": 112,
 		"common": 1
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 122,
+		"ips": 123,
 		"common": 3
 	},
 	{
@@ -176,14 +176,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32970,
-		"common": 73
+		"ips": 33011,
+		"common": 74
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9590,
-		"common": 43
+		"ips": 9592,
+		"common": 44
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -200,25 +200,25 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 540,
+		"ips": 541,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2114,
+		"ips": 2117,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17423,
+		"ips": 17425,
 		"common": 20
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13125,
+		"ips": 13161,
 		"common": 4
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22437,
+		"ips": 22326,
 		"common": 851
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6734,
+		"ips": 6715,
 		"common": 156
 	},
 	{
@@ -344,73 +344,73 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2224,
-		"common": 10
+		"ips": 2220,
+		"common": 13
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 23490,
-		"common": 113
+		"ips": 23320,
+		"common": 112
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121140,
+		"ips": 121121,
 		"common": 384
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60455,
+		"ips": 60467,
 		"common": 239
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 251,
+		"ips": 248,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 703,
+		"ips": 694,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19951,
+		"ips": 19948,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4393,
+		"ips": 4395,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 9
+		"common": 12
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 27012,
-		"common": 127
+		"ips": 26768,
+		"common": 126
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 160015,
+		"ips": 159978,
 		"common": 538
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 76791,
+		"ips": 76803,
 		"common": 300
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 537576,
+		"ips": 537684,
 		"common": 201
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2897,
+		"ips": 2899,
 		"common": 4
 	},
 	{
@@ -734,19 +734,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29679,
-		"common": 208
+		"ips": 29454,
+		"common": 207
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268902,
+		"ips": 268881,
 		"common": 692
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38798,
+		"ips": 38675,
 		"common": 480
 	},
 	{
@@ -758,8 +758,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41368,
-		"common": 91
+		"ips": 41408,
+		"common": 92
 	},
 	{
 		"name": "firehol_level3",
@@ -770,13 +770,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291004,
+		"ips": 9290894,
 		"common": 30612
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26203,
+		"ips": 26201,
 		"common": 460
 	},
 	{
@@ -1184,8 +1184,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 15577,
-		"common": 9
+		"ips": 15343,
+		"common": 10
 	},
 	{
 		"name": "nullsecure",
@@ -1202,7 +1202,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2014,
+		"ips": 2044,
 		"common": 2
 	},
 	{
