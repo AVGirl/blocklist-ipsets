@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "bds_atif",
@@ -12,10 +12,34 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 34943,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9574,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 26250,
-		"common": 2
+		"common": 4
+	},
+	{
+		"name": "cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 7296,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sipquery",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -45,13 +69,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29184,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 12032,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level1",
@@ -63,13 +87,19 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 43040,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132216,
-		"common": 2
+		"common": 4
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9291341,
+		"common": 1
 	},
 	{
 		"name": "greensnow",
@@ -87,7 +117,13 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 26774,
-		"common": 2
+		"common": 4
+	},
+	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 7264,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -129,13 +165,13 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
 		"ips": 150,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
@@ -146,7 +182,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 228,
+		"ips": 227,
 		"common": 1
 	}
 ]
