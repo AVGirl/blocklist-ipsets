@@ -1,15 +1,9 @@
 [
 	{
-		"name": "alienvault_reputation",
-		"category": "reputation",
-		"ips": 32352,
-		"common": 1
-	},
-	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 36600,
-		"common": 62
+		"common": 64
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -21,31 +15,25 @@
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 2257,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 20336,
-		"common": 62
+		"common": 64
 	},
 	{
-		"name": "ciarmy",
-		"category": "reputation",
-		"ips": 26250,
+		"name": "dragon_http",
+		"category": "attacks",
+		"ips": 59136,
 		"common": 1
-	},
-	{
-		"name": "firehol_abusers_30d",
-		"category": "abuse",
-		"ips": 270115,
-		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 45228,
-		"common": 62
+		"common": 64
 	},
 	{
 		"name": "firehol_level3",
@@ -54,88 +42,46 @@
 		"common": 1
 	},
 	{
-		"name": "firehol_level4",
-		"category": "attacks",
-		"ips": 9290645,
-		"common": 1
-	},
-	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740087,
-		"common": 62
+		"common": 61
 	},
 	{
 		"name": "gpf_comics",
 		"category": "abuse",
 		"ips": 3173,
-		"common": 4
-	},
-	{
-		"name": "iblocklist_ciarmy_malicious",
-		"category": "reputation",
-		"ips": 26774,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_level2",
-		"category": "reputation",
-		"ips": 346612547,
-		"common": 1
-	},
-	{
-		"name": "ipblacklistcloud_top",
-		"category": "abuse",
-		"ips": 232,
 		"common": 1
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 9
-	},
-	{
-		"name": "packetmail_ramnode",
-		"category": "reputation",
-		"ips": 2056,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 62
-	},
-	{
-		"name": "stopforumspam",
-		"category": "abuse",
-		"ips": 153224,
-		"common": 2
-	},
-	{
-		"name": "stopforumspam_180d",
-		"category": "abuse",
-		"ips": 248371,
-		"common": 7
+		"common": 61
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 355058,
-		"common": 12
-	},
-	{
-		"name": "stopforumspam_90d",
-		"category": "abuse",
-		"ips": 154271,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
 		"common": 61
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6383,
+		"common": 1
 	},
 	{
 		"name": "turris_greylist",
@@ -146,7 +92,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 87,
-		"common": 57
+		"ips": 66,
+		"common": 60
 	}
 ]
