@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2726,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -50,20 +50,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36003,
-		"common": 136
+		"ips": 36113,
+		"common": 137
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 169,
 		"common": 2
-	},
-	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 1203,
-		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -80,7 +74,7 @@
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 160669,
+		"ips": 160674,
 		"common": 3
 	},
 	{
@@ -104,7 +98,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 444,
+		"ips": 446,
 		"common": 11
 	},
 	{
@@ -117,7 +111,7 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19141,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -150,15 +144,9 @@
 		"common": 1
 	},
 	{
-		"name": "et_compromised",
-		"category": "attacks",
-		"ips": 1133,
-		"common": 1
-	},
-	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 269941,
+		"ips": 269957,
 		"common": 3
 	},
 	{
@@ -170,14 +158,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44563,
-		"common": 136
+		"ips": 44670,
+		"common": 137
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132253,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "firehol_level4",
@@ -279,7 +267,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4209190,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_spider",
@@ -309,7 +297,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3361,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -405,6 +393,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30579,
-		"common": 72
+		"common": 73
 	}
 ]
