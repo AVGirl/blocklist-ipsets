@@ -50,26 +50,32 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21729,
+		"ips": 21726,
 		"common": 19
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 50,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1176,
-		"common": 8
+		"ips": 1168,
+		"common": 9
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14957,
-		"common": 90
+		"ips": 14961,
+		"common": 91
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4865,
-		"common": 35
+		"ips": 4862,
+		"common": 36
 	},
 	{
 		"name": "cleantalk",
@@ -164,7 +170,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 30181,
+		"ips": 30187,
 		"common": 125
 	},
 	{
@@ -176,31 +182,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38672,
+		"ips": 38669,
 		"common": 464
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45130,
+		"ips": 45119,
 		"common": 20
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132266,
+		"ips": 132271,
 		"common": 9
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9290576,
-		"common": 97
+		"ips": 9290578,
+		"common": 98
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26214,
+		"ips": 26212,
 		"common": 467
 	},
 	{
@@ -218,7 +224,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2105,
+		"ips": 2086,
 		"common": 1
 	},
 	{
@@ -296,8 +302,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 16535,
-		"common": 7
+		"ips": 16319,
+		"common": 6
 	},
 	{
 		"name": "nullsecure",
@@ -510,15 +516,9 @@
 		"common": 102
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2874,
+		"ips": 2871,
 		"common": 27
 	},
 	{
@@ -578,13 +578,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 364,
+		"ips": 366,
 		"common": 23
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4048,
+		"ips": 4046,
 		"common": 80
 	},
 	{
@@ -644,7 +644,7 @@
 	{
 		"name": "taichung",
 		"category": "attacks",
-		"ips": 12233,
+		"ips": 12106,
 		"common": 1
 	},
 	{

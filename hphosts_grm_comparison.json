@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21729,
+		"ips": 21726,
 		"common": 2
 	},
 	{
@@ -98,19 +98,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1176,
+		"ips": 1168,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14957,
+		"ips": 14961,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4865,
+		"ips": 4862,
 		"common": 1
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 30181,
+		"ips": 30187,
 		"common": 1
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132266,
+		"ips": 132271,
 		"common": 2
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9290576,
+		"ips": 9290578,
 		"common": 23
 	},
 	{
@@ -466,6 +466,12 @@
 		"category": "malware",
 		"ips": 6383,
 		"common": 18
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 229,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
