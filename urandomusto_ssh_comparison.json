@@ -44,20 +44,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33410,
-		"common": 65
+		"ips": 33237,
+		"common": 66
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9574,
+		"ips": 9575,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13163,
-		"common": 63
+		"ips": 13122,
+		"common": 64
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -464,7 +464,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 107,
+		"ips": 109,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 102,
 		"common": 1
 	},
 	{
