@@ -36,6 +36,12 @@
 		"common": 16
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 21630,
+		"common": 1
+	},
+	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1203,
@@ -104,13 +110,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19136,
+		"ips": 19141,
 		"common": 11
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17319,
+		"ips": 17320,
 		"common": 5
 	},
 	{
@@ -158,7 +164,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652478703,
+		"ips": 652478705,
 		"common": 2
 	},
 	{
@@ -176,8 +182,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9290506,
-		"common": 2
+		"ips": 9290516,
+		"common": 3
 	},
 	{
 		"name": "firehol_webclient",
