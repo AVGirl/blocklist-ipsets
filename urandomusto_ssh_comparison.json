@@ -92,7 +92,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1203,
+		"ips": 1206,
 		"common": 24
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132263,
+		"ips": 132266,
 		"common": 42
 	},
 	{
@@ -476,13 +476,19 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 55,
+		"ips": 57,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 102,
+		"ips": 106,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 69,
 		"common": 1
 	},
 	{
