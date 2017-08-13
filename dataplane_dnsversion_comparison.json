@@ -98,7 +98,7 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121873,
+		"ips": 121862,
 		"common": 2
 	},
 	{
@@ -116,8 +116,8 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 365,
-		"common": 272
+		"ips": 378,
+		"common": 285
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 270139,
+		"ips": 270136,
 		"common": 2
 	},
 	{
@@ -218,14 +218,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9290627,
+		"ips": 9290694,
 		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740087,
-		"common": 172
+		"common": 179
 	},
 	{
 		"name": "greensnow",
@@ -243,7 +243,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 655636643,
-		"common": 7
+		"common": 14
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -267,7 +267,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612547,
-		"common": 9
+		"common": 11
 	},
 	{
 		"name": "iblocklist_level3",
@@ -297,7 +297,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3340,
-		"common": 61
+		"common": 64
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -315,19 +315,19 @@
 		"name": "packetmail_mail",
 		"category": "reputation",
 		"ips": 104,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2056,
-		"common": 43
+		"common": 46
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 172
+		"common": 179
 	},
 	{
 		"name": "snort_ipfilter",
