@@ -98,13 +98,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121310,
+		"ips": 121294,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 160238,
+		"ips": 160229,
 		"common": 2
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 536079,
+		"ips": 536140,
 		"common": 2
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 7168,
+		"ips": 7424,
 		"common": 109
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 269634,
+		"ips": 269623,
 		"common": 2
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42084,
+		"ips": 42339,
 		"common": 131
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291503,
+		"ips": 9291388,
 		"common": 3
 	},
 	{
@@ -386,14 +386,20 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 58,
-		"common": 16
+		"ips": 59,
+		"common": 17
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 107,
 		"common": 6
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 75,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
