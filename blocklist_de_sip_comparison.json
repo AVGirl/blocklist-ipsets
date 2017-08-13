@@ -50,14 +50,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34412,
-		"common": 133
+		"ips": 34094,
+		"common": 132
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 158,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -98,7 +98,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 447,
+		"ips": 446,
 		"common": 12
 	},
 	{
@@ -132,39 +132,15 @@
 		"common": 2
 	},
 	{
-		"name": "dronebl_autorooting_worms",
-		"category": "attacks",
-		"ips": 1046,
-		"common": 1
-	},
-	{
-		"name": "dronebl_worms_bots",
-		"category": "malware",
-		"ips": 132337,
-		"common": 1
-	},
-	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29184,
 		"common": 4
 	},
 	{
-		"name": "et_block",
-		"category": "attacks",
-		"ips": 24518998,
-		"common": 1
-	},
-	{
 		"name": "et_botcc",
 		"category": "reputation",
 		"ips": 529,
-		"common": 1
-	},
-	{
-		"name": "et_spamhaus",
-		"category": "attacks",
-		"ips": 24512768,
 		"common": 1
 	},
 	{
@@ -174,16 +150,10 @@
 		"common": 3
 	},
 	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 652478701,
-		"common": 1
-	},
-	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42016,
-		"common": 133
+		"ips": 41698,
+		"common": 132
 	},
 	{
 		"name": "firehol_level3",
@@ -201,7 +171,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740096,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "gofferje_sip",
@@ -282,12 +252,6 @@
 		"common": 3
 	},
 	{
-		"name": "iblocklist_spamhaus_drop",
-		"category": "attacks",
-		"ips": 24576512,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_spider",
 		"category": "reputation",
 		"ips": 814255,
@@ -327,7 +291,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 48
+		"common": 47
 	},
 	{
 		"name": "sorbs_dul",
@@ -340,12 +304,6 @@
 		"category": "spam",
 		"ips": 6267285,
 		"common": 2
-	},
-	{
-		"name": "spamhaus_drop",
-		"category": "reputation",
-		"ips": 24576512,
-		"common": 1
 	},
 	{
 		"name": "stopforumspam",
@@ -375,7 +333,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "taichung",
