@@ -6,6 +6,12 @@
 		"common": 4
 	},
 	{
+		"name": "anonymous",
+		"category": "geolocation",
+		"ips": 5903,
+		"common": 1
+	},
+	{
 		"name": "atlas_scans_30d",
 		"category": "attacks",
 		"ips": 99,
@@ -50,8 +56,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33603,
-		"common": 134
+		"ips": 33468,
+		"common": 133
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -63,7 +69,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 26250,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "cleantalk_30d",
@@ -99,7 +105,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 446,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -150,28 +156,34 @@
 		"common": 3
 	},
 	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 38768,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41763,
-		"common": 134
+		"ips": 41883,
+		"common": 133
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132233,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291225,
+		"ips": 9291131,
 		"common": 9
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740096,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "gofferje_sip",
@@ -285,7 +297,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 47
+		"common": 46
 	},
 	{
 		"name": "sorbs_dul",
@@ -327,7 +339,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "taichung",
@@ -345,7 +357,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -357,6 +369,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30579,
-		"common": 76
+		"common": 74
 	}
 ]
