@@ -38,8 +38,8 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 1819,
-		"common": 4
+		"ips": 1806,
+		"common": 3
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -74,73 +74,73 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7482,
+		"ips": 7460,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9115,
+		"ips": 9116,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28901,
+		"ips": 28900,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14306,
+		"ips": 14307,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32832,
+		"ips": 32605,
 		"common": 37
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9583,
+		"ips": 9584,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 411,
+		"ips": 412,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 539,
+		"ips": 540,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2121,
+		"ips": 2101,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17197,
+		"ips": 17051,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13214,
+		"ips": 13130,
 		"common": 11
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22573,
+		"ips": 22544,
 		"common": 2
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291135,
+		"ips": 9291107,
 		"common": 34
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
-		"ips": 346612547,
+		"ips": 346612427,
 		"common": 512
 	},
 	{
@@ -554,7 +554,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 15286,
+		"ips": 15261,
 		"common": 2
 	},
 	{
@@ -758,20 +758,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 115,
+		"ips": 117,
 		"common": 4
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 81,
-		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 130,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "urandomusto_rdp",
