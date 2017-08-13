@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "atlas_scans_30d",
@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36677,
-		"common": 135
+		"ips": 36600,
+		"common": 136
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21834,
+		"ips": 21819,
 		"common": 1
 	},
 	{
@@ -117,13 +117,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19148,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 17334,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "dragon_http",
@@ -164,8 +164,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45303,
-		"common": 135
+		"ips": 45228,
+		"common": 136
 	},
 	{
 		"name": "firehol_level3",
@@ -176,7 +176,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9290659,
+		"ips": 9290645,
 		"common": 10
 	},
 	{
@@ -399,6 +399,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30579,
-		"common": 72
+		"common": 71
 	}
 ]
