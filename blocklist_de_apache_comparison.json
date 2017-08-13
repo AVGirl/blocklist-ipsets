@@ -62,25 +62,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7508,
+		"ips": 7526,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9058,
+		"ips": 9060,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28843,
+		"ips": 28849,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14311,
+		"ips": 14318,
 		"common": 2
 	},
 	{
@@ -110,8 +110,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22647,
-		"common": 756
+		"ips": 22717,
+		"common": 755
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -320,7 +320,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 535859,
+		"ips": 535878,
 		"common": 17
 	},
 	{
@@ -488,8 +488,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291402,
-		"common": 798
+		"ips": 9291466,
+		"common": 797
 	},
 	{
 		"name": "firehol_proxies",
@@ -536,7 +536,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 22321,
+		"ips": 22323,
 		"common": 21
 	},
 	{
@@ -1082,13 +1082,13 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 132,
+		"ips": 131,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 158,
+		"ips": 159,
 		"common": 5
 	},
 	{
@@ -1098,9 +1098,15 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 147,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 227,
+		"ips": 223,
 		"common": 9
 	},
 	{

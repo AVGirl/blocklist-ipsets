@@ -182,7 +182,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 535859,
+		"ips": 535878,
 		"common": 2
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291402,
+		"ips": 9291466,
 		"common": 4
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 22321,
+		"ips": 22323,
 		"common": 3
 	},
 	{
@@ -440,13 +440,13 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 132,
-		"common": 19
+		"ips": 131,
+		"common": 18
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 158,
+		"ips": 159,
 		"common": 2
 	},
 	{
@@ -456,16 +456,22 @@
 		"common": 6
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 147,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 426,
+		"ips": 403,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 227,
-		"common": 6
+		"ips": 223,
+		"common": 7
 	},
 	{
 		"name": "voipbl",
