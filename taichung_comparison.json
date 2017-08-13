@@ -362,7 +362,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 511,
+		"ips": 509,
 		"common": 11
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38708,
+		"ips": 38710,
 		"common": 37
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26193,
+		"ips": 26197,
 		"common": 31
 	},
 	{
@@ -1014,21 +1014,27 @@
 		"common": 4
 	},
 	{
+		"name": "proxyrss",
+		"category": "anonymizers",
+		"ips": 727,
+		"common": 1
+	},
+	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 1636,
+		"ips": 1704,
 		"common": 1
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 4616,
+		"ips": 4608,
 		"common": 3
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 3144,
+		"ips": 3140,
 		"common": 3
 	},
 	{
@@ -1232,7 +1238,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 877,
+		"ips": 875,
 		"common": 5
 	},
 	{
@@ -1250,7 +1256,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1155,
+		"ips": 1151,
 		"common": 5
 	},
 	{
@@ -1280,20 +1286,20 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 75,
-		"common": 2
+		"ips": 81,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 130,
+		"ips": 125,
 		"common": 13
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 164,
-		"common": 36
+		"ips": 151,
+		"common": 33
 	},
 	{
 		"name": "urandomusto_smb",
@@ -1304,25 +1310,25 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 239,
-		"common": 32
+		"ips": 235,
+		"common": 30
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 432,
-		"common": 3
+		"ips": 392,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 222,
+		"ips": 218,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 12,
+		"ips": 11,
 		"common": 1
 	},
 	{

@@ -3,19 +3,19 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 4
+		"common": 8
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2726,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 32515,
-		"common": 64
+		"common": 63
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -33,7 +33,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 26250,
-		"common": 7
+		"common": 10
 	},
 	{
 		"name": "cybercrime",
@@ -42,22 +42,16 @@
 		"common": 1
 	},
 	{
-		"name": "dragon_http",
-		"category": "attacks",
-		"ips": 59136,
-		"common": 1
-	},
-	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 40382,
-		"common": 66
+		"common": 64
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132253,
-		"common": 8
+		"common": 10
 	},
 	{
 		"name": "firehol_level4",
@@ -81,36 +75,24 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1502,
-		"common": 3
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 26774,
-		"common": 7
-	},
-	{
-		"name": "iblocklist_edu",
-		"category": "organizations",
-		"ips": 227982807,
-		"common": 2
+		"common": 9
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762429167,
-		"common": 64
+		"common": 63
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139016718,
-		"common": 1
-	},
-	{
-		"name": "jigsaw_malware",
-		"category": "malware",
-		"ips": 59614,
 		"common": 1
 	},
 	{
@@ -120,39 +102,45 @@
 		"common": 1
 	},
 	{
-		"name": "packetmail_ramnode",
-		"category": "reputation",
-		"ips": 2044,
-		"common": 2
-	},
-	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
 		"common": 1
 	},
 	{
-		"name": "sorbs_dul",
+		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 375226662,
+		"ips": 545338,
+		"common": 1
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
 		"common": 1
 	},
 	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12106,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 5
+		"common": 8
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 64,
-		"common": 62
+		"ips": 69,
+		"common": 63
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 30610,
+		"common": 1
 	}
 ]
