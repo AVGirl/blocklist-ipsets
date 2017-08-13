@@ -194,7 +194,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 538056,
+		"ips": 538106,
 		"common": 5
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291008,
+		"ips": 9291051,
 		"common": 6
 	},
 	{
@@ -572,14 +572,8 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 114,
+		"ips": 115,
 		"common": 3
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 71,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -596,14 +590,20 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 107,
+		"ips": 110,
 		"common": 6
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 432,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 226,
-		"common": 28
+		"ips": 222,
+		"common": 27
 	},
 	{
 		"name": "urandomusto_vnc",
