@@ -449,7 +449,7 @@
 [ -f 'firehol_webserver.netset' ] && /usr/bin/touch --date=@1502563082 'firehol_webserver.netset'
 [ -f 'fullbogons.netset' ] && /usr/bin/touch --date=@1502556604 'fullbogons.netset'
 [ -f 'gofferje_sip.netset' ] && /usr/bin/touch --date=@1502571603 'gofferje_sip.netset'
-[ -f 'gpf_comics.ipset' ] && /usr/bin/touch --date=@1502522185 'gpf_comics.ipset'
+[ -f 'gpf_comics.ipset' ] && /usr/bin/touch --date=@1502609289 'gpf_comics.ipset'
 [ -f 'graphiclineweb.netset' ] && /usr/bin/touch --date=@1453683378 'graphiclineweb.netset'
 [ -f 'greensnow.ipset' ] && /usr/bin/touch --date=@1502607658 'greensnow.ipset'
 [ -f 'haley_ssh.ipset' ] && /usr/bin/touch --date=@1502594906 'haley_ssh.ipset'
