@@ -74,67 +74,67 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9052,
+		"ips": 9058,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28837,
+		"ips": 28843,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14312,
+		"ips": 14311,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34094,
+		"ips": 34142,
 		"common": 251
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9508,
+		"ips": 9515,
 		"common": 87
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 988,
+		"ips": 993,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 531,
+		"ips": 535,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2187,
-		"common": 27
+		"ips": 2177,
+		"common": 24
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18538,
+		"ips": 18536,
 		"common": 36
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 172,
+		"ips": 173,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13248,
+		"ips": 13283,
 		"common": 111
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22591,
+		"ips": 22558,
 		"common": 10
 	},
 	{
@@ -326,13 +326,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19142,
+		"ips": 19163,
 		"common": 146
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17320,
+		"ips": 17350,
 		"common": 109
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29486,
+		"ips": 29569,
 		"common": 19
 	},
 	{
@@ -458,19 +458,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38750,
+		"ips": 38702,
 		"common": 4
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652478701,
+		"ips": 652478705,
 		"common": 235
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41719,
+		"ips": 41766,
 		"common": 593
 	},
 	{
@@ -482,13 +482,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291345,
+		"ips": 9291315,
 		"common": 115
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26201,
+		"ips": 26196,
 		"common": 4
 	},
 	{
@@ -740,8 +740,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 15442,
-		"common": 7
+		"ips": 15511,
+		"common": 8
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -938,7 +938,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4696,
+		"ips": 4826,
 		"common": 1
 	},
 	{
