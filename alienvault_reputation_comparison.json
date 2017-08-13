@@ -87,7 +87,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 380,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "bambenek_simda",
@@ -200,8 +200,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36530,
-		"common": 94
+		"ips": 36541,
+		"common": 95
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9601,
+		"common": 30
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -218,31 +224,37 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2249,
+		"ips": 2243,
 		"common": 8
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 20239,
+		"common": 15
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 176,
+		"ips": 175,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13869,
+		"ips": 13898,
 		"common": 41
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 168,
 		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21736,
+		"ips": 21745,
 		"common": 15
 	},
 	{
@@ -452,7 +464,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19135,
+		"ips": 19136,
 		"common": 82
 	},
 	{
@@ -476,7 +488,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 535858,
+		"ips": 535859,
 		"common": 47
 	},
 	{
@@ -512,7 +524,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 132326,
+		"ips": 132338,
 		"common": 15
 	},
 	{
@@ -680,7 +692,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 30085,
+		"ips": 30131,
 		"common": 25
 	},
 	{
@@ -692,31 +704,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38669,
+		"ips": 38760,
 		"common": 4
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652478699,
-		"common": 283
+		"common": 282
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45119,
-		"common": 324
+		"ips": 45132,
+		"common": 325
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132271,
+		"ips": 132275,
 		"common": 8216
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9290594,
+		"ips": 9290603,
 		"common": 234
 	},
 	{
@@ -1070,7 +1082,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 16319,
+		"ips": 16150,
 		"common": 6
 	},
 	{
@@ -1190,7 +1202,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5009,
+		"ips": 5010,
 		"common": 79
 	},
 	{
@@ -1364,7 +1376,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4087,
+		"ips": 4177,
 		"common": 4
 	},
 	{
@@ -1406,7 +1418,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9698,
+		"ips": 9701,
 		"common": 4
 	},
 	{
