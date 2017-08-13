@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34540,
-		"common": 134
+		"ips": 34412,
+		"common": 133
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -132,6 +132,12 @@
 		"common": 2
 	},
 	{
+		"name": "dronebl_autorooting_worms",
+		"category": "attacks",
+		"ips": 1046,
+		"common": 1
+	},
+	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 132337,
@@ -176,8 +182,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42147,
-		"common": 134
+		"ips": 42016,
+		"common": 133
 	},
 	{
 		"name": "firehol_level3",
@@ -188,8 +194,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291365,
-		"common": 9
+		"ips": 9291322,
+		"common": 8
 	},
 	{
 		"name": "firehol_webserver",
@@ -292,12 +298,6 @@
 		"category": "reputation",
 		"ips": 338981,
 		"common": 3
-	},
-	{
-		"name": "ipblacklistcloud_top",
-		"category": "abuse",
-		"ips": 232,
-		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
