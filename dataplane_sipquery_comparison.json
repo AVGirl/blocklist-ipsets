@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 551,
+		"ips": 592,
 		"common": 10
 	},
 	{
@@ -170,13 +170,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19157,
+		"ips": 19140,
 		"common": 82
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17336,
+		"ips": 17320,
 		"common": 1
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 535859,
+		"ips": 535858,
 		"common": 5
 	},
 	{
@@ -260,13 +260,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38739,
+		"ips": 38733,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652478680,
+		"ips": 652478695,
 		"common": 6
 	},
 	{
@@ -278,19 +278,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132212,
+		"ips": 132216,
 		"common": 272
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9291368,
+		"ips": 9291310,
 		"common": 6
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26209,
+		"ips": 26203,
 		"common": 1
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9700,
+		"ips": 9704,
 		"common": 3
 	},
 	{
@@ -578,32 +578,26 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 139,
-		"common": 7
+		"ips": 134,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 164,
+		"ips": 158,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 100,
+		"ips": 102,
 		"common": 6
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 434,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 230,
-		"common": 34
+		"ips": 228,
+		"common": 33
 	},
 	{
 		"name": "voipbl",
