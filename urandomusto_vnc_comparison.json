@@ -62,7 +62,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44670,
+		"ips": 43560,
 		"common": 1
 	},
 	{
@@ -74,14 +74,14 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2051,
+		"ips": 907,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 655636643,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -134,7 +134,13 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 165,
+		"ips": 166,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 231,
 		"common": 1
 	}
 ]

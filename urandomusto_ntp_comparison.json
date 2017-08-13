@@ -33,7 +33,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268567,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bds_atif",
@@ -80,19 +80,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36113,
+		"ips": 35833,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9592,
+		"ips": 9594,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13724,
+		"ips": 13602,
 		"common": 1
 	},
 	{
@@ -105,7 +105,7 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 397,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "dataplane_dnsrdany",
@@ -117,13 +117,13 @@
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
 		"ips": 304,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 446,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -147,13 +147,13 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 7168,
-		"common": 38
+		"common": 39
 	},
 	{
 		"name": "dshield_30d",
@@ -165,7 +165,7 @@
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 12032,
-		"common": 40
+		"common": 41
 	},
 	{
 		"name": "dshield_top_1000",
@@ -177,24 +177,24 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24518998,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652478703,
-		"common": 36
+		"common": 37
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44670,
+		"ips": 43560,
 		"common": 47
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9290566,
+		"ips": 9291500,
 		"common": 2
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2051,
-		"common": 11
+		"ips": 907,
+		"common": 9
 	},
 	{
 		"name": "haley_ssh",
@@ -261,7 +261,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612547,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "iblocklist_level3",
@@ -362,25 +362,25 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 165,
+		"ips": 166,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 99,
+		"ips": 100,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 230,
+		"ips": 231,
 		"common": 4
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30579,
-		"common": 9
+		"common": 8
 	}
 ]
