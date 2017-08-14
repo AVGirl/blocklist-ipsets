@@ -80,13 +80,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30219,
+		"ips": 30212,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9597,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1065,
+		"ips": 1061,
 		"common": 1
 	},
 	{
@@ -176,13 +182,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19160,
+		"ips": 19137,
 		"common": 3
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17331,
+		"ips": 17305,
 		"common": 1
 	},
 	{
@@ -284,19 +290,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470005,
+		"ips": 652470004,
 		"common": 10
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38836,
+		"ips": 38830,
 		"common": 15
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131482,
+		"ips": 131483,
 		"common": 36
 	},
 	{

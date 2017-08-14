@@ -74,7 +74,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29076,
+		"ips": 29074,
 		"common": 1
 	},
 	{
@@ -86,13 +86,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30219,
-		"common": 258
+		"ips": 30212,
+		"common": 262
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9597,
+		"common": 101
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 408,
+		"ips": 416,
 		"common": 1
 	},
 	{
@@ -104,13 +110,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1736,
-		"common": 23
+		"ips": 1751,
+		"common": 24
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 15161,
+		"common": 32
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 121,
+		"ips": 124,
 		"common": 10
 	},
 	{
@@ -296,14 +308,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19160,
-		"common": 144
+		"ips": 19137,
+		"common": 145
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17331,
-		"common": 108
+		"ips": 17305,
+		"common": 109
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -434,19 +446,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470005,
+		"ips": 652470004,
 		"common": 237
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38836,
-		"common": 642
+		"ips": 38830,
+		"common": 646
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131482,
+		"ips": 131483,
 		"common": 23123
 	},
 	{
@@ -950,7 +962,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9719,
+		"ips": 9720,
 		"common": 2
 	},
 	{

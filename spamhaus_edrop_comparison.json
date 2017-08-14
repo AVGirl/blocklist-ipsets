@@ -32,7 +32,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30219,
+		"ips": 30212,
 		"common": 9
 	},
 	{
@@ -44,8 +44,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1736,
+		"ips": 1751,
 		"common": 7
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 15161,
+		"common": 8
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -242,19 +248,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470005,
+		"ips": 652470004,
 		"common": 758528
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38836,
+		"ips": 38830,
 		"common": 9
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131482,
+		"ips": 131483,
 		"common": 14
 	},
 	{
@@ -512,7 +518,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5889,
+		"ips": 5982,
 		"common": 4
 	},
 	{

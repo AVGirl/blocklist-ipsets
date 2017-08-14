@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30219,
-		"common": 81
+		"ips": 30212,
+		"common": 84
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -92,13 +92,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19160,
+		"ips": 19137,
 		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17331,
+		"ips": 17305,
 		"common": 3
 	},
 	{
@@ -147,7 +147,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 268501,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_anonymous",
@@ -158,19 +158,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470005,
+		"ips": 652470004,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38836,
-		"common": 81
+		"ips": 38830,
+		"common": 84
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131482,
+		"ips": 131483,
 		"common": 13
 	},
 	{
@@ -183,7 +183,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739427,
-		"common": 40
+		"common": 42
 	},
 	{
 		"name": "gofferje_sip",
@@ -249,7 +249,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139017423,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -297,7 +297,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 38
+		"common": 39
 	},
 	{
 		"name": "sorbs_dul",
@@ -312,22 +312,34 @@
 		"common": 3
 	},
 	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 153065,
+		"common": 1
+	},
+	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 249120,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 356447,
+		"common": 2
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 154277,
 		"common": 1
 	},
 	{
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "taichung",
@@ -363,6 +375,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30610,
-		"common": 53
+		"common": 54
 	}
 ]

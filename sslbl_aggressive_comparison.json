@@ -8,7 +8,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 377,
+		"ips": 376,
 		"common": 2
 	},
 	{
@@ -32,13 +32,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30219,
+		"ips": 30212,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1736,
+		"ips": 1751,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 15161,
 		"common": 1
 	},
 	{
@@ -170,13 +176,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19160,
+		"ips": 19137,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17331,
+		"ips": 17305,
 		"common": 1
 	},
 	{
@@ -434,19 +440,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470005,
+		"ips": 652470004,
 		"common": 592
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38836,
+		"ips": 38830,
 		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131482,
+		"ips": 131483,
 		"common": 2961
 	},
 	{
@@ -836,8 +842,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5889,
-		"common": 2
+		"ips": 5982,
+		"common": 3
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -872,7 +878,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9719,
+		"ips": 9720,
 		"common": 10
 	},
 	{

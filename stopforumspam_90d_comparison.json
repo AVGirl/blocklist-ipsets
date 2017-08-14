@@ -86,19 +86,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7499,
+		"ips": 7512,
 		"common": 9
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9212,
+		"ips": 9215,
 		"common": 10
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29076,
+		"ips": 29074,
 		"common": 42
 	},
 	{
@@ -110,25 +110,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30219,
-		"common": 804
+		"ips": 30212,
+		"common": 807
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8244,
-		"common": 54
+		"ips": 9597,
+		"common": 86
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 408,
-		"common": 242
+		"ips": 416,
+		"common": 245
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1065,
+		"ips": 1061,
 		"common": 30
 	},
 	{
@@ -140,14 +140,20 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1736,
+		"ips": 1751,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 8244,
-		"common": 54
+		"ips": 15161,
+		"common": 505
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 124,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -374,14 +380,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19160,
-		"common": 349
+		"ips": 19137,
+		"common": 347
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17331,
-		"common": 341
+		"ips": 17305,
+		"common": 339
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -596,19 +602,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470005,
+		"ips": 652470004,
 		"common": 2857
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38836,
-		"common": 848
+		"ips": 38830,
+		"common": 851
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131482,
+		"ips": 131483,
 		"common": 1793
 	},
 	{
@@ -1472,8 +1478,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5889,
-		"common": 4758
+		"ips": 5982,
+		"common": 4805
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1508,7 +1514,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9719,
+		"ips": 9720,
 		"common": 689
 	},
 	{
