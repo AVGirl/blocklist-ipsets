@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29693,
-		"common": 95
+		"ips": 29625,
+		"common": 94
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -62,13 +62,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120750,
+		"ips": 120743,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 159072,
+		"ips": 159089,
 		"common": 3
 	},
 	{
@@ -80,14 +80,14 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 448,
+		"ips": 451,
 		"common": 13
 	},
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 66,
-		"common": 4
+		"ips": 65,
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -146,13 +146,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268617,
+		"ips": 268618,
 		"common": 4
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38877,
+		"ips": 38853,
 		"common": 1
 	},
 	{
@@ -164,8 +164,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38561,
-		"common": 95
+		"ips": 38500,
+		"common": 94
 	},
 	{
 		"name": "firehol_level3",
@@ -176,14 +176,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382813,
+		"ips": 9383058,
 		"common": 8
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739702,
-		"common": 45
+		"common": 44
 	},
 	{
 		"name": "gofferje_sip",
@@ -194,7 +194,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 22383,
+		"ips": 22391,
 		"common": 5
 	},
 	{
@@ -291,7 +291,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 42
+		"common": 41
 	},
 	{
 		"name": "sorbs_dul",
@@ -351,7 +351,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 25020,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -362,7 +362,7 @@
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 30610,
-		"common": 54
+		"ips": 30643,
+		"common": 58
 	}
 ]
