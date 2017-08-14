@@ -24,57 +24,39 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_de",
-		"category": "attacks",
-		"ips": 31567,
-		"common": 20
-	},
-	{
-		"name": "blocklist_de_apache",
-		"category": "attacks",
-		"ips": 9556,
-		"common": 1
-	},
-	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1028,
+		"ips": 1041,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2011,
+		"ips": 2021,
 		"common": 1
-	},
-	{
-		"name": "blocklist_de_mail",
-		"category": "attacks",
-		"ips": 16228,
-		"common": 19
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22324,
+		"ips": 22335,
 		"common": 3
 	},
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6659,
+		"ips": 6647,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15034,
+		"ips": 15027,
 		"common": 4
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4912,
+		"ips": 4909,
 		"common": 2
 	},
 	{
@@ -152,7 +134,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19300,
+		"ips": 19297,
 		"common": 1
 	},
 	{
@@ -194,7 +176,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 28620,
+		"ips": 28693,
 		"common": 8
 	},
 	{
@@ -206,19 +188,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38852,
+		"ips": 38669,
 		"common": 11
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39730,
-		"common": 20
+		"ips": 17064,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132150,
+		"ips": 132233,
 		"common": 3
 	},
 	{
@@ -243,6 +225,12 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095986,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1934,
 		"common": 1
 	},
 	{
@@ -320,8 +308,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 15774,
-		"common": 20
+		"ips": 15627,
+		"common": 19
 	},
 	{
 		"name": "packetmail",
@@ -608,7 +596,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3837,
+		"ips": 3971,
 		"common": 2
 	},
 	{

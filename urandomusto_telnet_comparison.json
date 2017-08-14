@@ -48,18 +48,6 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_de",
-		"category": "attacks",
-		"ips": 31567,
-		"common": 4
-	},
-	{
-		"name": "blocklist_de_apache",
-		"category": "attacks",
-		"ips": 9556,
-		"common": 1
-	},
-	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 12944,
@@ -104,14 +92,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19300,
-		"common": 4
+		"ips": 19297,
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17465,
-		"common": 3
+		"ips": 17457,
+		"common": 2
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -156,6 +144,12 @@
 		"common": 6
 	},
 	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 870,
+		"common": 1
+	},
+	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24518998,
@@ -182,14 +176,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39730,
-		"common": 15
+		"ips": 17064,
+		"common": 12
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132150,
-		"common": 145
+		"ips": 132233,
+		"common": 146
 	},
 	{
 		"name": "firehol_level4",
@@ -206,7 +200,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1909,
+		"ips": 1934,
 		"common": 7
 	},
 	{
