@@ -38,19 +38,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29539,
-		"common": 416
+		"ips": 29616,
+		"common": 418
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9660,
+		"ips": 9673,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14630,
+		"ips": 14649,
 		"common": 1
 	},
 	{
@@ -62,8 +62,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23144,
-		"common": 69
+		"ips": 23239,
+		"common": 71
 	},
 	{
 		"name": "bm_tor",
@@ -302,8 +302,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38675,
-		"common": 416
+		"ips": 38748,
+		"common": 418
 	},
 	{
 		"name": "firehol_level3",
@@ -314,8 +314,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383130,
-		"common": 210
+		"ips": 9383222,
+		"common": 211
 	},
 	{
 		"name": "firehol_proxies",
@@ -339,7 +339,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095988,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "gpf_comics",
@@ -410,14 +410,14 @@
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
-		"ips": 346612427,
+		"ips": 346611362,
 		"common": 19
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139017423,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -472,12 +472,6 @@
 		"category": "abuse",
 		"ips": 3389,
 		"common": 13
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 17722,
-		"common": 1
 	},
 	{
 		"name": "packetmail_mail",
@@ -669,25 +663,25 @@
 		"name": "ri_connect_proxies",
 		"category": "anonymizers",
 		"ips": 147,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "ri_connect_proxies_1d",
 		"category": "anonymizers",
-		"ips": 237,
+		"ips": 232,
 		"common": 7
 	},
 	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 2074,
-		"common": 19
+		"ips": 2043,
+		"common": 20
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 692,
-		"common": 11
+		"ips": 694,
+		"common": 12
 	},
 	{
 		"name": "ri_web_proxies",
@@ -753,7 +747,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "sorbs_new_spam",
