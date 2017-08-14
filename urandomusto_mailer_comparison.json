@@ -1,9 +1,15 @@
 [
 	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 2910,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 31289,
-		"common": 66
+		"common": 67
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -12,10 +18,22 @@
 		"common": 66
 	},
 	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 1928,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 8244,
 		"common": 66
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 26250,
+		"common": 1
 	},
 	{
 		"name": "et_block",
@@ -39,13 +57,31 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 39366,
-		"common": 66
+		"common": 68
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 132248,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739610,
 		"common": 66
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1838,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 26774,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
@@ -72,9 +108,21 @@
 		"common": 66
 	},
 	{
+		"name": "urandomusto_dns",
+		"category": "attacks",
+		"ips": 64,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 117,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 69,
-		"common": 65
+		"ips": 103,
+		"common": 63
 	}
 ]

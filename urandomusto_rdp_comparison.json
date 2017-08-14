@@ -27,7 +27,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 26250,
-		"common": 23
+		"common": 21
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -135,12 +135,12 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132248,
-		"common": 30
+		"common": 28
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383033,
+		"ips": 9383028,
 		"common": 3
 	},
 	{
@@ -177,7 +177,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 26774,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -189,7 +189,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227982807,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level1",
@@ -201,13 +201,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612427,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139016718,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -243,7 +243,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3173,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -261,7 +261,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2067,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -297,7 +297,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11990,
-		"common": 34
+		"common": 32
 	},
 	{
 		"name": "trustedsec_atif",
@@ -309,7 +309,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 25020,
-		"common": 36
+		"common": 34
 	},
 	{
 		"name": "urandomusto_dns",
@@ -324,21 +324,27 @@
 		"common": 2
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 103,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 122,
+		"ips": 117,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 150,
-		"common": 1
+		"ips": 159,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 431,
+		"ips": 405,
 		"common": 2
 	},
 	{
