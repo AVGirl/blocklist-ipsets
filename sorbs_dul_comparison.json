@@ -44,7 +44,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 375,
+		"ips": 371,
 		"common": 6
 	},
 	{
@@ -158,56 +158,56 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31466,
-		"common": 2058
+		"ips": 31531,
+		"common": 2070
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9561,
-		"common": 117
+		"ips": 9558,
+		"common": 118
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 416,
+		"ips": 418,
 		"common": 27
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1031,
-		"common": 90
+		"ips": 1030,
+		"common": 91
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 552,
+		"ips": 548,
 		"common": 35
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1992,
+		"ips": 1986,
 		"common": 100
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16077,
+		"ips": 16106,
 		"common": 460
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 167,
+		"ips": 168,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12974,
-		"common": 1413
+		"ips": 13014,
+		"common": 1424
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -350,31 +350,31 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2220,
-		"common": 107
+		"ips": 2218,
+		"common": 100
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 23230,
-		"common": 937
+		"ips": 23303,
+		"common": 939
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120780,
-		"common": 7084
+		"ips": 120783,
+		"common": 7085
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 59670,
+		"ips": 59604,
 		"common": 2582
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 237,
+		"ips": 231,
 		"common": 24
 	},
 	{
@@ -386,14 +386,14 @@
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19778,
-		"common": 2141
+		"ips": 19766,
+		"common": 2140
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4273,
-		"common": 382
+		"ips": 4262,
+		"common": 381
 	},
 	{
 		"name": "cleantalk_top20",
@@ -405,24 +405,24 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 83
+		"common": 76
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 26536,
-		"common": 1092
+		"ips": 26638,
+		"common": 1094
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 159415,
-		"common": 7908
+		"ips": 159422,
+		"common": 7909
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 75627,
+		"ips": 75556,
 		"common": 3047
 	},
 	{
@@ -458,14 +458,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19286,
-		"common": 2009
+		"ips": 19287,
+		"common": 2010
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17456,
-		"common": 1897
+		"ips": 17462,
+		"common": 1900
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -734,13 +734,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 28884,
-		"common": 1303
+		"ips": 29045,
+		"common": 1315
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268682,
+		"ips": 268683,
 		"common": 20556
 	},
 	{
@@ -758,14 +758,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39610,
-		"common": 2119
+		"ips": 39678,
+		"common": 2131
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132240,
-		"common": 10394
+		"ips": 132245,
+		"common": 10396
 	},
 	{
 		"name": "firehol_level4",
@@ -1682,8 +1682,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4077,
-		"common": 244
+		"ips": 4176,
+		"common": 254
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1724,8 +1724,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9707,
-		"common": 899
+		"ips": 9708,
+		"common": 900
 	},
 	{
 		"name": "threatcrowd",
