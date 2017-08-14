@@ -146,8 +146,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22386,
-		"common": 132
+		"ips": 22375,
+		"common": 129
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -212,8 +212,8 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1208,
-		"common": 41
+		"ips": 1211,
+		"common": 42
 	},
 	{
 		"name": "ciarmy",
@@ -626,14 +626,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132239,
-		"common": 1112
+		"ips": 132240,
+		"common": 1113
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382838,
-		"common": 853
+		"ips": 9382825,
+		"common": 851
 	},
 	{
 		"name": "firehol_proxies",
@@ -1022,25 +1022,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1102,
+		"ips": 1133,
 		"common": 5
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2099,
+		"ips": 2169,
 		"common": 10
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 5326,
+		"ips": 5371,
 		"common": 15
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3694,
+		"ips": 3744,
 		"common": 10
 	},
 	{
@@ -1094,19 +1094,19 @@
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 264,
+		"ips": 268,
 		"common": 1
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2252,
+		"ips": 2258,
 		"common": 8
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 994,
+		"ips": 1002,
 		"common": 3
 	},
 	{
@@ -1316,7 +1316,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9709,
+		"ips": 9708,
 		"common": 6
 	},
 	{
@@ -1346,7 +1346,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 154,
+		"ips": 156,
 		"common": 2
 	},
 	{
@@ -1356,16 +1356,22 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 102,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 436,
+		"ips": 437,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 201,
-		"common": 4
+		"ips": 199,
+		"common": 3
 	},
 	{
 		"name": "uscert_hidden_cobra",
@@ -1388,7 +1394,7 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 140,
+		"ips": 143,
 		"common": 1
 	},
 	{
@@ -1400,7 +1406,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 273,
+		"ips": 271,
 		"common": 1
 	},
 	{
