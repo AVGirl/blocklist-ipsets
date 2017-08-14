@@ -246,28 +246,52 @@
 		"common": 857
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2449,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 26770,
+		"common": 2
+	},
+	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120741,
-		"common": 43
+		"ips": 120756,
+		"common": 42
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 59590,
-		"common": 9
+		"ips": 59615,
+		"common": 10
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 30759,
+		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 159096,
-		"common": 53
+		"ips": 159122,
+		"common": 52
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 75172,
-		"common": 10
+		"ips": 75174,
+		"common": 11
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -296,7 +320,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6738,
+		"ips": 6700,
 		"common": 2
 	},
 	{
@@ -422,19 +446,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 33785,
-		"common": 1
+		"ips": 34181,
+		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268623,
-		"common": 57
+		"ips": 268643,
+		"common": 56
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38852,
+		"ips": 38839,
 		"common": 3
 	},
 	{
@@ -446,7 +470,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38867,
+		"ips": 38866,
 		"common": 17
 	},
 	{
@@ -458,7 +482,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382936,
+		"ips": 9382937,
 		"common": 12190
 	},
 	{
@@ -506,7 +530,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1562,
+		"ips": 1560,
 		"common": 3
 	},
 	{
@@ -994,6 +1018,12 @@
 		"category": "reputation",
 		"ips": 25020,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 69,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
