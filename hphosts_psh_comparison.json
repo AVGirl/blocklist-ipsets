@@ -392,7 +392,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 447,
+		"ips": 446,
 		"common": 1
 	},
 	{
@@ -554,25 +554,25 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29463,
-		"common": 16
+		"ips": 29519,
+		"common": 17
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268816,
-		"common": 161
+		"ips": 268829,
+		"common": 162
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38731,
+		"ips": 38730,
 		"common": 8
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652472525,
+		"ips": 652472523,
 		"common": 160
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132252,
+		"ips": 132023,
 		"common": 79
 	},
 	{
@@ -596,7 +596,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26235,
+		"ips": 26234,
 		"common": 5
 	},
 	{
@@ -984,6 +984,30 @@
 		"common": 7
 	},
 	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_1d",
+		"category": "spam",
+		"ips": 97,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_30d",
+		"category": "spam",
+		"ips": 1038,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_7d",
+		"category": "spam",
+		"ips": 356,
+		"common": 1
+	},
+	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
 		"ips": 5336,
@@ -1064,7 +1088,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 326,
+		"ips": 324,
 		"common": 14
 	},
 	{
@@ -1160,7 +1184,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3990,
+		"ips": 3988,
 		"common": 1
 	},
 	{

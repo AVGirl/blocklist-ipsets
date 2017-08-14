@@ -69,7 +69,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 32250,
-		"common": 38
+		"common": 37
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -99,13 +99,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 13088,
-		"common": 4
-	},
-	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 1209,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "ciarmy",
@@ -165,7 +159,7 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19226,
-		"common": 82
+		"common": 81
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -176,7 +170,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 509,
+		"ips": 510,
 		"common": 60
 	},
 	{
@@ -222,12 +216,6 @@
 		"common": 54
 	},
 	{
-		"name": "dshield_top_1000",
-		"category": "attacks",
-		"ips": 889,
-		"common": 3
-	},
-	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24518998,
@@ -248,32 +236,32 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268816,
+		"ips": 268829,
 		"common": 5
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38731,
+		"ips": 38730,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652472525,
+		"ips": 652472523,
 		"common": 6
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 40488,
-		"common": 82
+		"common": 81
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132252,
-		"common": 268
+		"ips": 132023,
+		"common": 265
 	},
 	{
 		"name": "firehol_level4",
@@ -284,7 +272,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26235,
+		"ips": 26234,
 		"common": 1
 	},
 	{
@@ -297,7 +285,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739610,
-		"common": 132
+		"common": 131
 	},
 	{
 		"name": "gofferje_sip",
@@ -465,7 +453,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 122
+		"common": 121
 	},
 	{
 		"name": "snort_ipfilter",
