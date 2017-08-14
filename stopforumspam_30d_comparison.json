@@ -158,7 +158,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22703,
+		"ips": 22694,
 		"common": 763
 	},
 	{
@@ -255,49 +255,49 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2409,
-		"common": 692
+		"common": 646
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 25157,
-		"common": 8263
+		"ips": 25280,
+		"common": 8279
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120703,
-		"common": 23345
+		"ips": 120707,
+		"common": 23346
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 59306,
-		"common": 14211
+		"ips": 59309,
+		"common": 14204
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 445,
+		"ips": 449,
 		"common": 71
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 727,
+		"ips": 729,
 		"common": 134
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19662,
+		"ips": 19666,
 		"common": 4963
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4264,
-		"common": 892
+		"ips": 4270,
+		"common": 893
 	},
 	{
 		"name": "cleantalk_top20",
@@ -309,25 +309,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 624
+		"common": 578
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 28698,
-		"common": 9396
+		"ips": 28860,
+		"common": 9421
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 159006,
-		"common": 29242
+		"ips": 159003,
+		"common": 29241
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 74816,
-		"common": 17188
+		"ips": 74818,
+		"common": 17176
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -536,13 +536,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 32215,
-		"common": 11607
+		"ips": 32356,
+		"common": 11620
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268545,
+		"ips": 268537,
 		"common": 56827
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383226,
+		"ips": 9383216,
 		"common": 9205
 	},
 	{
@@ -1452,34 +1452,34 @@
 		"common": 36
 	},
 	{
-		"name": "urandomusto_ftp",
-		"category": "attacks",
-		"ips": 96,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 189,
-		"common": 9
+		"ips": 194,
+		"common": 10
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 66,
+		"ips": 71,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 196,
+		"ips": 166,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 444,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 160,
-		"common": 2
+		"ips": 145,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

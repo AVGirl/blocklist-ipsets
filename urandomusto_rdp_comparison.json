@@ -45,7 +45,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 29992,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -57,13 +57,13 @@
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 1737,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 14982,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "ciarmy",
@@ -177,7 +177,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 38366,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "firehol_level3",
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383226,
+		"ips": 9383216,
 		"common": 4
 	},
 	{
@@ -207,7 +207,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1554,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "haley_ssh",
@@ -286,6 +286,12 @@
 		"category": "malware",
 		"ips": 59614,
 		"common": 6
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 21288,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
@@ -374,13 +380,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 96,
+		"ips": 98,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 189,
+		"ips": 194,
 		"common": 3
 	},
 	{
@@ -392,13 +398,13 @@
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 446,
+		"ips": 444,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 160,
+		"ips": 145,
 		"common": 2
 	},
 	{
