@@ -248,8 +248,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22340,
-		"common": 201
+		"ips": 22386,
+		"common": 202
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -830,14 +830,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132233,
+		"ips": 132238,
 		"common": 2332
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382803,
-		"common": 179402
+		"ips": 9382848,
+		"common": 179403
 	},
 	{
 		"name": "firehol_proxies",
@@ -1724,7 +1724,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9706,
+		"ips": 9708,
 		"common": 53
 	},
 	{
@@ -1778,19 +1778,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 118,
+		"ips": 116,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 121,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 130,
+		"ips": 129,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 152,
+		"ips": 154,
 		"common": 1
 	},
 	{
@@ -1802,13 +1808,13 @@
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 431,
+		"ips": 436,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 203,
+		"ips": 201,
 		"common": 5
 	},
 	{
@@ -1844,7 +1850,7 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 142,
+		"ips": 140,
 		"common": 4
 	},
 	{
