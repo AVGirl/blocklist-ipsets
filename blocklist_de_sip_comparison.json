@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31754,
-		"common": 126
+		"ips": 31546,
+		"common": 125
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -72,16 +72,52 @@
 		"common": 10
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2221,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 23135,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120819,
+		"ips": 120809,
 		"common": 4
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 59741,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 26443,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 159482,
+		"ips": 159460,
 		"common": 4
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 75734,
+		"common": 1
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -144,22 +180,28 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 28727,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268701,
+		"ips": 268691,
 		"common": 4
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38670,
+		"ips": 38669,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39927,
-		"common": 126
+		"ips": 39722,
+		"common": 125
 	},
 	{
 		"name": "firehol_level3",
@@ -297,7 +339,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "sorbs_web",
