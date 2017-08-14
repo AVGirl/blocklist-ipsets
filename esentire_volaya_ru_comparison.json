@@ -20,19 +20,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29997,
+		"ips": 30015,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12580,
+		"ips": 12613,
 		"common": 2
 	},
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1211,
+		"ips": 1213,
 		"common": 1
 	},
 	{
@@ -51,6 +51,12 @@
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 17305,
+		"common": 1
+	},
+	{
+		"name": "dm_tor",
+		"category": "anonymizers",
+		"ips": 6716,
 		"common": 1
 	},
 	{
@@ -246,6 +252,12 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 38829,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652470004,
@@ -254,7 +266,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38362,
+		"ips": 38389,
 		"common": 2
 	},
 	{
@@ -266,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383042,
+		"ips": 9383084,
 		"common": 3
 	},
 	{
