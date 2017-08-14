@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22518,
+		"ips": 22557,
 		"common": 2
 	},
 	{
@@ -218,14 +218,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382988,
+		"ips": 9383027,
 		"common": 50
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34143,
-		"common": 1
+		"ips": 34144,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -429,6 +429,12 @@
 		"name": "ransomware_locky_c2",
 		"category": "malware",
 		"ips": 260,
+		"common": 1
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 144,
 		"common": 1
 	},
 	{
