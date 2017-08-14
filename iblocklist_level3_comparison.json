@@ -170,7 +170,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1129,
+		"ips": 1128,
 		"common": 61
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22465,
+		"ips": 22439,
 		"common": 1152
 	},
 	{
@@ -384,22 +384,28 @@
 		"common": 4194304
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 57,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1208,
-		"common": 90
+		"ips": 1239,
+		"common": 92
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15026,
+		"ips": 15028,
 		"common": 786
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4913,
-		"common": 321
+		"ips": 4917,
+		"common": 320
 	},
 	{
 		"name": "botvrij_dst",
@@ -608,8 +614,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6616,
-		"common": 504
+		"ips": 6648,
+		"common": 507
 	},
 	{
 		"name": "dragon_http",
@@ -698,8 +704,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 870,
-		"common": 18
+		"ips": 881,
+		"common": 40
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -902,7 +908,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29045,
+		"ips": 29054,
 		"common": 2301
 	},
 	{
@@ -914,31 +920,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38663,
-		"common": 2271
+		"ips": 38750,
+		"common": 2275
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652472559,
-		"common": 5006745
+		"ips": 652472555,
+		"common": 5006744
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39678,
-		"common": 2945
+		"ips": 39674,
+		"common": 2946
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132245,
-		"common": 8598
+		"ips": 132258,
+		"common": 8620
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382930,
+		"ips": 9382906,
 		"common": 162314
 	},
 	{
@@ -986,8 +992,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1907,
-		"common": 126
+		"ips": 1901,
+		"common": 127
 	},
 	{
 		"name": "haley_ssh",

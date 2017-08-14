@@ -56,7 +56,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1129,
+		"ips": 1128,
 		"common": 1
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22465,
+		"ips": 22439,
 		"common": 38
 	},
 	{
@@ -192,22 +192,28 @@
 		"common": 8
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 57,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1208,
-		"common": 8
+		"ips": 1239,
+		"common": 9
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15026,
+		"ips": 15028,
 		"common": 149
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4913,
-		"common": 36
+		"ips": 4917,
+		"common": 37
 	},
 	{
 		"name": "botvrij_dst",
@@ -356,7 +362,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6616,
+		"ips": 6648,
 		"common": 8
 	},
 	{
@@ -400,12 +406,6 @@
 		"category": "malware",
 		"ips": 132363,
 		"common": 6
-	},
-	{
-		"name": "dshield_top_1000",
-		"category": "attacks",
-		"ips": 870,
-		"common": 1
 	},
 	{
 		"name": "esentire_crazyerror_su",
@@ -476,8 +476,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29045,
-		"common": 433
+		"ips": 29054,
+		"common": 434
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -488,31 +488,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38663,
+		"ips": 38750,
 		"common": 15
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652472559,
+		"ips": 652472555,
 		"common": 5802754
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39678,
+		"ips": 39674,
 		"common": 33
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132245,
-		"common": 35
+		"ips": 132258,
+		"common": 34
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382930,
+		"ips": 9382906,
 		"common": 8921600
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1907,
+		"ips": 1901,
 		"common": 4
 	},
 	{
