@@ -104,8 +104,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 787,
-		"common": 47
+		"ips": 783,
+		"common": 46
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -741,7 +741,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652472565,
-		"common": 666
+		"common": 668
 	},
 	{
 		"name": "firehol_level2",
@@ -771,7 +771,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739427,
-		"common": 2672
+		"common": 2674
 	},
 	{
 		"name": "fullbogons",
@@ -819,7 +819,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26630,
-		"common": 197
+		"common": 199
 	},
 	{
 		"name": "hphosts_exp",
@@ -897,7 +897,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 653801891,
-		"common": 1449
+		"common": 1450
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -921,7 +921,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227917056,
-		"common": 368
+		"common": 369
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -1005,7 +1005,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762429167,
-		"common": 685
+		"common": 686
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1269,13 +1269,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1989
+		"common": 1990
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5010,
-		"common": 168
+		"common": 170
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1284,16 +1284,22 @@
 		"common": 3
 	},
 	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 3,
+		"common": 2
+	},
+	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 142,
-		"common": 142
+		"ips": 144,
+		"common": 144
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 327,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "ri_connect_proxies_1d",
