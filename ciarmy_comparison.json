@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22296,
+		"ips": 22342,
 		"common": 10
 	},
 	{
@@ -420,6 +420,12 @@
 		"common": 343
 	},
 	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 792,
+		"common": 12
+	},
+	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24518998,
@@ -446,19 +452,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 28538,
+		"ips": 28541,
 		"common": 20
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268767,
+		"ips": 268770,
 		"common": 73
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38661,
+		"ips": 38668,
 		"common": 4
 	},
 	{
@@ -476,13 +482,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132022,
+		"ips": 132149,
 		"common": 26250
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382741,
+		"ips": 9382787,
 		"common": 115
 	},
 	{
@@ -794,7 +800,7 @@
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 832,
+		"ips": 830,
 		"common": 1
 	},
 	{

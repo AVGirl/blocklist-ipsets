@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22296,
+		"ips": 22342,
 		"common": 132
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6645,
+		"ips": 6659,
 		"common": 3
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6642,
+		"ips": 6656,
 		"common": 3
 	},
 	{
@@ -312,6 +312,12 @@
 		"common": 408
 	},
 	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 792,
+		"common": 1
+	},
+	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24518998,
@@ -338,19 +344,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 28538,
+		"ips": 28541,
 		"common": 1029
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268767,
+		"ips": 268770,
 		"common": 2653
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38661,
+		"ips": 38668,
 		"common": 3686
 	},
 	{
@@ -368,13 +374,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132022,
-		"common": 133
+		"ips": 132149,
+		"common": 134
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382741,
+		"ips": 9382787,
 		"common": 645
 	},
 	{
@@ -609,25 +615,25 @@
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 5
+		"ips": 94,
+		"common": 9
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 832,
-		"common": 75
+		"ips": 830,
+		"common": 77
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 270,
-		"common": 23
+		"ips": 299,
+		"common": 26
 	},
 	{
 		"name": "php_dictionary",
@@ -939,13 +945,13 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 43
+		"common": 44
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 320,
-		"common": 119
+		"ips": 321,
+		"common": 120
 	},
 	{
 		"name": "sslproxies_30d",

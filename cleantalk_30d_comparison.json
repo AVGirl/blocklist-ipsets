@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22296,
+		"ips": 22342,
 		"common": 2521
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6645,
-		"common": 545
+		"ips": 6659,
+		"common": 549
 	},
 	{
 		"name": "bogons",
@@ -422,8 +422,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6642,
-		"common": 545
+		"ips": 6656,
+		"common": 549
 	},
 	{
 		"name": "dragon_http",
@@ -502,6 +502,12 @@
 		"category": "attacks",
 		"ips": 11776,
 		"common": 26
+	},
+	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 792,
+		"common": 2
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -602,20 +608,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 28538,
-		"common": 19257
+		"ips": 28541,
+		"common": 19258
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268767,
+		"ips": 268770,
 		"common": 120900
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38661,
-		"common": 11682
+		"ips": 38668,
+		"common": 11681
 	},
 	{
 		"name": "firehol_level1",
@@ -632,13 +638,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132022,
-		"common": 2271
+		"ips": 132149,
+		"common": 2273
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382741,
+		"ips": 9382787,
 		"common": 13700
 	},
 	{
@@ -1089,25 +1095,25 @@
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
-		"common": 33
+		"common": 35
 	},
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 33
+		"ips": 94,
+		"common": 63
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 832,
-		"common": 611
+		"ips": 830,
+		"common": 603
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 270,
-		"common": 190
+		"ips": 299,
+		"common": 209
 	},
 	{
 		"name": "php_dictionary",
@@ -1472,8 +1478,8 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 320,
-		"common": 158
+		"ips": 321,
+		"common": 159
 	},
 	{
 		"name": "sslproxies_30d",
