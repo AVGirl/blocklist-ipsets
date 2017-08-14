@@ -86,14 +86,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31420,
-		"common": 2
+		"ips": 31390,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9687,
+		"ips": 9683,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 12855,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -218,8 +224,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38955,
-		"common": 9
+		"ips": 38926,
+		"common": 10
 	},
 	{
 		"name": "firehol_level3",
