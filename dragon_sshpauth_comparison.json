@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 783,
+		"ips": 761,
 		"common": 4
 	},
 	{
@@ -62,19 +62,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30922,
+		"ips": 30741,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12673,
+		"ips": 12629,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 157,
+		"ips": 156,
 		"common": 1
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39741,
-		"common": 3
+		"ips": 39590,
+		"common": 4
 	},
 	{
 		"name": "firehol_level3",
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383088,
+		"ips": 9383081,
 		"common": 111
 	},
 	{
@@ -254,8 +254,14 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1095986,
+		"ips": 1095988,
 		"common": 4
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1500,
+		"common": 1
 	},
 	{
 		"name": "haley_ssh",
