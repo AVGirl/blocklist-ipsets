@@ -8,7 +8,7 @@
 	{
 		"name": "bambenek_necurs",
 		"category": "malware",
-		"ips": 7,
+		"ips": 8,
 		"common": 5
 	},
 	{
@@ -26,37 +26,37 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 8453,
+		"ips": 8452,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 3650,
+		"ips": 3649,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7441,
+		"ips": 7444,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9148,
+		"ips": 9152,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28996,
+		"ips": 28997,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14263,
+		"ips": 14267,
 		"common": 3
 	},
 	{
@@ -66,21 +66,27 @@
 		"common": 302055424
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 43,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1189,
+		"ips": 1166,
 		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15020,
+		"ips": 15012,
 		"common": 8
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4879,
+		"ips": 4876,
 		"common": 5
 	},
 	{
@@ -182,7 +188,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29264,
+		"ips": 29253,
 		"common": 4
 	},
 	{
@@ -198,15 +204,9 @@
 		"common": 302055424
 	},
 	{
-		"name": "firehol_level2",
-		"category": "attacks",
-		"ips": 39379,
-		"common": 2
-	},
-	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382914,
+		"ips": 9382897,
 		"common": 9
 	},
 	{
@@ -220,12 +220,6 @@
 		"category": "unrouteable",
 		"ips": 627164552,
 		"common": 302055424
-	},
-	{
-		"name": "greensnow",
-		"category": "attacks",
-		"ips": 1844,
-		"common": 2
 	},
 	{
 		"name": "hphosts_ats",
