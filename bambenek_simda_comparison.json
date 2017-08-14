@@ -33,13 +33,13 @@
 		"name": "bambenek_banjori",
 		"category": "malware",
 		"ips": 120,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 378,
-		"common": 131
+		"common": 130
 	},
 	{
 		"name": "bambenek_dircrypt",
@@ -50,7 +50,7 @@
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
-		"ips": 5,
+		"ips": 6,
 		"common": 2
 	},
 	{
@@ -138,22 +138,16 @@
 		"common": 2
 	},
 	{
-		"name": "et_block",
-		"category": "attacks",
-		"ips": 24518998,
-		"common": 1
-	},
-	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652472565,
-		"common": 131
+		"common": 130
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 131464,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "firehol_level4",
@@ -171,7 +165,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739427,
-		"common": 130
+		"common": 129
 	},
 	{
 		"name": "gofferje_sip",
@@ -189,7 +183,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26630,
-		"common": 130
+		"common": 129
 	},
 	{
 		"name": "hphosts_exp",
@@ -201,7 +195,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 26263,
-		"common": 53
+		"common": 52
 	},
 	{
 		"name": "hphosts_grm",
@@ -225,25 +219,25 @@
 		"name": "hphosts_mmt",
 		"category": "reputation",
 		"ips": 1148,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1740,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 30302,
-		"common": 49
+		"common": 48
 	},
 	{
 		"name": "hphosts_wrz",
 		"category": "reputation",
 		"ips": 818,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "iblocklist_ads",
@@ -261,7 +255,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762429167,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "iblocklist_level2",
@@ -358,17 +352,5 @@
 		"category": "organizations",
 		"ips": 12403,
 		"common": 3
-	},
-	{
-		"name": "zeus",
-		"category": "malware",
-		"ips": 141,
-		"common": 1
-	},
-	{
-		"name": "zeus_badips",
-		"category": "malware",
-		"ips": 129,
-		"common": 1
 	}
 ]
