@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2726,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "ciarmy",
@@ -27,7 +27,13 @@
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 505,
-		"common": 2
+		"common": 4
+	},
+	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 538289,
+		"common": 1
 	},
 	{
 		"name": "dshield_30d",
@@ -102,9 +108,27 @@
 		"common": 1
 	},
 	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 1277221,
+		"common": 1
+	},
+	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3234,
+		"common": 2
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2069,
+		"common": 1
+	},
+	{
+		"name": "sorbs_anonymizers",
+		"category": "spam",
+		"ips": 609175,
 		"common": 1
 	},
 	{
@@ -117,7 +141,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 25020,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",

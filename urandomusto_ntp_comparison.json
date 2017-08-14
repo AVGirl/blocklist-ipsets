@@ -21,13 +21,13 @@
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
 		"ips": 83,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
 		"ips": 29,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bds_atif",
@@ -111,7 +111,7 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 427,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "dataplane_dnsrdany",
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652472563,
+		"ips": 652472577,
 		"common": 32
 	},
 	{
@@ -202,6 +202,12 @@
 		"category": "attacks",
 		"ips": 132151,
 		"common": 67
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9382792,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -220,6 +226,12 @@
 		"category": "attacks",
 		"ips": 1936,
 		"common": 12
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 22342,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -255,7 +267,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139016718,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -267,13 +279,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "packetmail",
@@ -339,13 +351,13 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 25020,
-		"common": 69
+		"common": 71
 	},
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 61,
-		"common": 10
+		"ips": 62,
+		"common": 11
 	},
 	{
 		"name": "urandomusto_ftp",
@@ -362,7 +374,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 216,
+		"ips": 213,
 		"common": 3
 	},
 	{

@@ -1,21 +1,39 @@
 [
 	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 2726,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 31878,
-		"common": 65
+		"common": 64
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 9574,
-		"common": 65
+		"common": 64
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 16452,
-		"common": 65
+		"common": 64
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 26250,
+		"common": 1
+	},
+	{
+		"name": "dronebl_worms_bots",
+		"category": "malware",
+		"ips": 132363,
+		"common": 1
 	},
 	{
 		"name": "firehol_level2",
@@ -24,15 +42,69 @@
 		"common": 65
 	},
 	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 132151,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1936,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 655636643,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 26774,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762429167,
-		"common": 65
+		"common": 64
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 1277221,
+		"common": 2
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_dns",
+		"category": "attacks",
+		"ips": 62,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 119,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 86,
+		"ips": 83,
 		"common": 63
 	}
 ]
