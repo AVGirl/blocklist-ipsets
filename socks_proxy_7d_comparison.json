@@ -62,26 +62,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31721,
-		"common": 721
+		"ips": 31610,
+		"common": 724
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 417,
-		"common": 7
+		"ips": 415,
+		"common": 8
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2020,
+		"ips": 2013,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16275,
-		"common": 714
+		"ips": 16251,
+		"common": 716
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22352,
+		"ips": 22391,
 		"common": 318
 	},
 	{
@@ -332,8 +332,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39891,
-		"common": 721
+		"ips": 39780,
+		"common": 724
 	},
 	{
 		"name": "firehol_level3",
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382815,
+		"ips": 9382854,
 		"common": 739
 	},
 	{
@@ -590,8 +590,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 16194,
-		"common": 351
+		"ips": 15992,
+		"common": 350
 	},
 	{
 		"name": "nullsecure",
@@ -980,8 +980,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 119,
+		"ips": 118,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 61,
+		"common": 2
 	},
 	{
 		"name": "xroxy",

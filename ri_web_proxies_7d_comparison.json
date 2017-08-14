@@ -56,25 +56,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31721,
-		"common": 139
+		"ips": 31610,
+		"common": 137
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 417,
-		"common": 34
+		"ips": 415,
+		"common": 32
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2020,
+		"ips": 2013,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16275,
+		"ips": 16251,
 		"common": 105
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22352,
+		"ips": 22391,
 		"common": 114
 	},
 	{
@@ -314,8 +314,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39891,
-		"common": 140
+		"ips": 39780,
+		"common": 138
 	},
 	{
 		"name": "firehol_level3",
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382815,
+		"ips": 9382854,
 		"common": 413
 	},
 	{
@@ -530,8 +530,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 16194,
-		"common": 71
+		"ips": 15992,
+		"common": 70
 	},
 	{
 		"name": "nullsecure",
@@ -946,6 +946,12 @@
 		"category": "reputation",
 		"ips": 25020,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 89,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
