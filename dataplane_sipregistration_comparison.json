@@ -60,9 +60,15 @@
 		"common": 29
 	},
 	{
+		"name": "dataplane_sipinvitation",
+		"category": "attacks",
+		"ips": 19,
+		"common": 1
+	},
+	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 451,
+		"ips": 452,
 		"common": 2
 	},
 	{
@@ -92,7 +98,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38866,
+		"ips": 38722,
 		"common": 4
 	},
 	{
@@ -135,7 +141,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612427,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_level3",
@@ -147,6 +153,12 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3294,
+		"common": 1
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2196,
 		"common": 1
 	},
 	{
@@ -195,7 +207,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 25020,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "voipbl",

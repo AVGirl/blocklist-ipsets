@@ -246,12 +246,6 @@
 		"common": 1
 	},
 	{
-		"name": "firehol_anonymous",
-		"category": "anonymizers",
-		"ips": 38838,
-		"common": 1
-	},
-	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652469989,
@@ -260,7 +254,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38866,
+		"ips": 38722,
 		"common": 2
 	},
 	{
@@ -272,7 +266,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383014,
+		"ips": 9383018,
 		"common": 3
 	},
 	{
@@ -462,27 +456,21 @@
 		"common": 3
 	},
 	{
-		"name": "tor_exits",
-		"category": "anonymizers",
-		"ips": 884,
-		"common": 1
-	},
-	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 931,
+		"ips": 929,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1911,
+		"ips": 1912,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1160,
+		"ips": 1161,
 		"common": 1
 	}
 ]
