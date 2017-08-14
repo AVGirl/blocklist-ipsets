@@ -20,8 +20,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 80,
-		"common": 80
+		"ips": 108,
+		"common": 85
 	},
 	{
 		"name": "bambenek_c2",
@@ -45,7 +45,7 @@
 		"name": "bambenek_necurs",
 		"category": "malware",
 		"ips": 11,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "bambenek_pykspa",
@@ -68,8 +68,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 113,
-		"common": 113
+		"ips": 123,
+		"common": 114
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -230,7 +230,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22490,
+		"ips": 22504,
 		"common": 73
 	},
 	{
@@ -764,7 +764,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38730,
+		"ips": 38729,
 		"common": 30
 	},
 	{
@@ -782,13 +782,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382912,
+		"ips": 9382926,
 		"common": 5804515
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26234,
+		"ips": 26233,
 		"common": 23
 	},
 	{
@@ -1214,7 +1214,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2044,
+		"ips": 2069,
 		"common": 96
 	},
 	{
@@ -1406,7 +1406,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2894,
+		"ips": 2902,
 		"common": 3
 	},
 	{
@@ -1418,7 +1418,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4892,
+		"ips": 4893,
 		"common": 3
 	},
 	{
@@ -1602,12 +1602,6 @@
 		"common": 4
 	},
 	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 69,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 125,
@@ -1628,19 +1622,19 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 235,
+		"ips": 237,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 392,
-		"common": 8
+		"ips": 396,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 218,
+		"ips": 216,
 		"common": 6
 	},
 	{
