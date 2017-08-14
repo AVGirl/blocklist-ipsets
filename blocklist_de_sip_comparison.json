@@ -56,20 +56,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31811,
-		"common": 127
-	},
-	{
-		"name": "blocklist_de_ssh",
-		"category": "attacks",
-		"ips": 12996,
-		"common": 1
+		"ips": 31878,
+		"common": 128
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 161,
-		"common": 3
+		"ips": 162,
+		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -176,8 +170,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40010,
-		"common": 127
+		"ips": 40063,
+		"common": 128
 	},
 	{
 		"name": "firehol_level3",
@@ -372,12 +366,6 @@
 		"common": 2
 	},
 	{
-		"name": "trustedsec_atif",
-		"category": "reputation",
-		"ips": 1681,
-		"common": 1
-	},
-	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 25020,
@@ -399,6 +387,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30610,
-		"common": 78
+		"common": 79
 	}
 ]
