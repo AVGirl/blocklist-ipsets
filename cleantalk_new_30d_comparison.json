@@ -18,12 +18,6 @@
 		"common": 7
 	},
 	{
-		"name": "bi_any_2_1d",
-		"category": "attacks",
-		"ips": 1128,
-		"common": 1
-	},
-	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2846,
@@ -134,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22480,
+		"ips": 22518,
 		"common": 99
 	},
 	{
@@ -152,32 +146,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6619,
-		"common": 83
+		"ips": 6658,
+		"common": 82
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 57,
-		"common": 6
+		"ips": 52,
+		"common": 8
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1239,
-		"common": 198
+		"ips": 1201,
+		"common": 189
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15028,
-		"common": 2262
+		"ips": 15030,
+		"common": 2261
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4917,
-		"common": 856
+		"ips": 4916,
+		"common": 854
 	},
 	{
 		"name": "bruteforceblocker",
@@ -308,8 +302,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6648,
-		"common": 83
+		"ips": 6655,
+		"common": 82
 	},
 	{
 		"name": "dragon_http",
@@ -470,7 +464,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 28882,
+		"ips": 28880,
 		"common": 3296
 	},
 	{
@@ -482,7 +476,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38754,
+		"ips": 38703,
 		"common": 1539
 	},
 	{
@@ -494,7 +488,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39622,
+		"ips": 39611,
 		"common": 261
 	},
 	{
@@ -506,8 +500,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382947,
-		"common": 2358
+		"ips": 9382986,
+		"common": 2357
 	},
 	{
 		"name": "firehol_proxies",
@@ -548,7 +542,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1901,
+		"ips": 1890,
 		"common": 31
 	},
 	{
@@ -752,7 +746,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 15615,
+		"ips": 15607,
 		"common": 30
 	},
 	{
@@ -1010,8 +1004,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 9707,
-		"common": 100
+		"ips": 9708,
+		"common": 96
 	},
 	{
 		"name": "socks_proxy",
