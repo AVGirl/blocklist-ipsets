@@ -224,8 +224,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 26250,
-		"common": 193
+		"ips": 24782,
+		"common": 203
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38779,
+		"ips": 38782,
 		"common": 11
 	},
 	{
@@ -518,8 +518,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132402,
-		"common": 251
+		"ips": 130949,
+		"common": 264
 	},
 	{
 		"name": "firehol_level4",
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26282,
+		"ips": 26285,
 		"common": 8
 	},
 	{
@@ -824,8 +824,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3186,
-		"common": 116
+		"ips": 3240,
+		"common": 112
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1136,8 +1136,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 118,
-		"common": 17
+		"ips": 121,
+		"common": 19
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 97,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1160,20 +1166,26 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 188,
-		"common": 8
+		"ips": 172,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 415,
-		"common": 8
+		"ips": 393,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 212,
-		"common": 24
+		"ips": 214,
+		"common": 23
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 12,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

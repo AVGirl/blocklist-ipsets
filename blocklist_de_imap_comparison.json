@@ -116,7 +116,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 26250,
+		"ips": 24782,
 		"common": 25
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38779,
+		"ips": 38782,
 		"common": 2
 	},
 	{
@@ -362,8 +362,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132402,
-		"common": 42
+		"ips": 130949,
+		"common": 44
 	},
 	{
 		"name": "firehol_level4",
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26282,
+		"ips": 26285,
 		"common": 2
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3186,
+		"ips": 3240,
 		"common": 4
 	},
 	{
@@ -632,13 +632,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 9106,
+		"ips": 9109,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4840,
+		"ips": 4842,
 		"common": 1
 	},
 	{
@@ -772,6 +772,12 @@
 		"category": "reputation",
 		"ips": 25020,
 		"common": 54
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 70,
+		"common": 6
 	},
 	{
 		"name": "voipbl",

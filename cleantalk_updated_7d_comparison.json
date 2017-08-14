@@ -236,8 +236,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 26250,
-		"common": 39
+		"ips": 24782,
+		"common": 34
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38779,
+		"ips": 38782,
 		"common": 7262
 	},
 	{
@@ -536,8 +536,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132402,
-		"common": 2308
+		"ips": 130949,
+		"common": 2303
 	},
 	{
 		"name": "firehol_level4",
@@ -548,7 +548,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26282,
+		"ips": 26285,
 		"common": 6693
 	},
 	{
@@ -944,8 +944,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3186,
-		"common": 133
+		"ips": 3240,
+		"common": 132
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1251,24 +1251,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 59
+		"common": 70
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2872,
-		"common": 2115
+		"ips": 2876,
+		"common": 2116
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 9106,
+		"ips": 9109,
 		"common": 3271
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4840,
+		"ips": 4842,
 		"common": 3194
 	},
 	{
@@ -1335,12 +1335,12 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 63
+		"common": 61
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 422,
+		"ips": 424,
 		"common": 194
 	},
 	{
@@ -1353,7 +1353,7 @@
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
 		"ips": 1279,
-		"common": 560
+		"common": 559
 	},
 	{
 		"name": "stopforumspam",
@@ -1460,25 +1460,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 118,
-		"common": 33
+		"ips": 121,
+		"common": 35
 	},
 	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 188,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 415,
-		"common": 1
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 70,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 212,
+		"ips": 214,
 		"common": 3
 	},
 	{

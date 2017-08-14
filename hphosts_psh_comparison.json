@@ -38,8 +38,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 117,
-		"common": 42
+		"ips": 119,
+		"common": 43
 	},
 	{
 		"name": "bambenek_c2",
@@ -80,8 +80,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 133,
-		"common": 52
+		"ips": 131,
+		"common": 50
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -284,8 +284,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 26250,
-		"common": 3
+		"ips": 24782,
+		"common": 2
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -566,7 +566,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38779,
+		"ips": 38782,
 		"common": 8
 	},
 	{
@@ -584,8 +584,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132402,
-		"common": 80
+		"ips": 130949,
+		"common": 77
 	},
 	{
 		"name": "firehol_level4",
@@ -596,7 +596,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26282,
+		"ips": 26285,
 		"common": 5
 	},
 	{
@@ -1278,10 +1278,16 @@
 		"common": 8
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 97,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 212,
-		"common": 1
+		"ips": 214,
+		"common": 2
 	},
 	{
 		"name": "urlvir",
@@ -1299,7 +1305,7 @@
 		"name": "vxvault",
 		"category": "malware",
 		"ips": 95,
-		"common": 18
+		"common": 15
 	},
 	{
 		"name": "xforce_bccs",

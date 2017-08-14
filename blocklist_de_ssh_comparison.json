@@ -116,8 +116,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 26250,
-		"common": 108
+		"ips": 24782,
+		"common": 101
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38779,
+		"ips": 38782,
 		"common": 8
 	},
 	{
@@ -506,8 +506,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132402,
-		"common": 549
+		"ips": 130949,
+		"common": 547
 	},
 	{
 		"name": "firehol_level4",
@@ -776,8 +776,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3186,
-		"common": 292
+		"ips": 3240,
+		"common": 279
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -1028,7 +1028,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 118,
+		"ips": 121,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 70,
 		"common": 1
 	},
 	{
@@ -1046,20 +1052,20 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 188,
-		"common": 81
+		"ips": 172,
+		"common": 44
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 415,
-		"common": 2
+		"ips": 393,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 212,
-		"common": 3
+		"ips": 214,
+		"common": 5
 	},
 	{
 		"name": "voipbl",

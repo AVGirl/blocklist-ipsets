@@ -116,7 +116,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 26250,
+		"ips": 24782,
 		"common": 7
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132402,
+		"ips": 130949,
 		"common": 36
 	},
 	{
@@ -464,8 +464,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3186,
-		"common": 6
+		"ips": 3240,
+		"common": 7
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -566,7 +566,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 118,
+		"ips": 121,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 97,
 		"common": 1
 	},
 	{
@@ -590,13 +596,19 @@
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 415,
+		"ips": 393,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 212,
+		"ips": 214,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 12,
 		"common": 1
 	},
 	{
