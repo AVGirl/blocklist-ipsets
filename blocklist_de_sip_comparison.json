@@ -62,13 +62,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120663,
+		"ips": 120671,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 159094,
+		"ips": 159088,
 		"common": 3
 	},
 	{
@@ -114,10 +114,28 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 7936,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 29184,
-		"common": 3
+		"ips": 29952,
+		"common": 4
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 12800,
+		"common": 1
 	},
 	{
 		"name": "et_botcc",
@@ -128,7 +146,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268563,
+		"ips": 268571,
 		"common": 3
 	},
 	{
@@ -138,15 +156,21 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 652472564,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38896,
+		"ips": 39915,
 		"common": 85
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 130949,
+		"ips": 131457,
 		"common": 14
 	},
 	{
