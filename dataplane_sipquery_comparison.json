@@ -20,8 +20,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1127,
-		"common": 4
+		"ips": 1126,
+		"common": 3
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38669,
+		"ips": 38744,
 		"common": 1
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39722,
+		"ips": 39708,
 		"common": 79
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382848,
+		"ips": 9382840,
 		"common": 5
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1934,
+		"ips": 1928,
 		"common": 57
 	},
 	{
@@ -411,6 +411,12 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 455,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 15616,
 		"common": 1
 	},
 	{
