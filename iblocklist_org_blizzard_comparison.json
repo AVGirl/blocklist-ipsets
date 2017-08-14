@@ -80,31 +80,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29407,
+		"ips": 29420,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1665,
+		"ips": 1656,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14510,
+		"ips": 14514,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12389,
+		"ips": 12404,
 		"common": 4
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23174,
+		"ips": 23162,
 		"common": 7
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38541,
+		"ips": 38553,
 		"common": 20
 	},
 	{
@@ -332,7 +332,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383150,
+		"ips": 9383137,
 		"common": 80
 	},
 	{
@@ -686,7 +686,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2946,
+		"ips": 2951,
 		"common": 12
 	},
 	{
@@ -820,6 +820,12 @@
 		"category": "reputation",
 		"ips": 25020,
 		"common": 20
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 64,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",

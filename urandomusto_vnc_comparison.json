@@ -20,13 +20,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29407,
+		"ips": 29420,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14510,
+		"ips": 14514,
 		"common": 1
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38541,
+		"ips": 38553,
 		"common": 1
 	},
 	{
@@ -70,6 +70,12 @@
 		"category": "attacks",
 		"ips": 132611,
 		"common": 4
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 653801891,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
