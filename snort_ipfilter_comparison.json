@@ -12,6 +12,12 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 375,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 133,
@@ -39,7 +45,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 438,
-		"common": 34
+		"common": 36
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -146,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23230,
+		"ips": 23235,
 		"common": 43
 	},
 	{
@@ -320,7 +326,7 @@
 	{
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 7299,
+		"ips": 7300,
 		"common": 38
 	},
 	{
@@ -362,13 +368,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19049,
-		"common": 247
+		"ips": 19011,
+		"common": 248
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17212,
+		"ips": 17170,
 		"common": 240
 	},
 	{
@@ -512,7 +518,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35940,
+		"ips": 36001,
 		"common": 603
 	},
 	{
@@ -530,8 +536,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652469995,
-		"common": 100
+		"ips": 652470002,
+		"common": 101
 	},
 	{
 		"name": "firehol_level2",
@@ -548,7 +554,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383216,
+		"ips": 9227617,
 		"common": 604
 	},
 	{
@@ -704,7 +710,7 @@
 	{
 		"name": "iblocklist_hijacked",
 		"category": "attacks",
-		"ips": 8921600,
+		"ips": 8765952,
 		"common": 13
 	},
 	{
@@ -884,8 +890,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 7538,
-		"common": 40
+		"ips": 7382,
+		"common": 37
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1154,7 +1160,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6377,
+		"ips": 6472,
 		"common": 468
 	},
 	{
