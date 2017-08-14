@@ -122,14 +122,14 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 400,
-		"common": 104
+		"ips": 399,
+		"common": 103
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 305,
-		"common": 104
+		"ips": 304,
+		"common": 103
 	},
 	{
 		"name": "dataplane_sipinvitation",
@@ -140,7 +140,7 @@
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 88,
+		"ips": 83,
 		"common": 3
 	},
 	{
@@ -158,8 +158,8 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 502,
-		"common": 55
+		"ips": 505,
+		"common": 54
 	},
 	{
 		"name": "dragon_http",
@@ -236,13 +236,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38811,
+		"ips": 38812,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652472564,
+		"ips": 652470004,
 		"common": 11
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131481,
+		"ips": 131482,
 		"common": 275
 	},
 	{
@@ -266,13 +266,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26283,
+		"ips": 26286,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34142,
+		"ips": 34143,
 		"common": 1
 	},
 	{
@@ -357,7 +357,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612427,
-		"common": 41
+		"common": 42
 	},
 	{
 		"name": "iblocklist_level3",
@@ -405,12 +405,6 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 455,
-		"common": 1
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 23687,
 		"common": 1
 	},
 	{
