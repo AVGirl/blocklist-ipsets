@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22408,
+		"ips": 22394,
 		"common": 129
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 505,
+		"ips": 503,
 		"common": 5
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38717,
+		"ips": 38706,
 		"common": 56
 	},
 	{
@@ -638,19 +638,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382994,
+		"ips": 9382981,
 		"common": 852
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26280,
+		"ips": 26272,
 		"common": 51
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34143,
+		"ips": 34142,
 		"common": 270
 	},
 	{
@@ -1124,7 +1124,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5009,
+		"ips": 5010,
 		"common": 20
 	},
 	{
@@ -1184,19 +1184,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2894,
+		"ips": 2901,
 		"common": 10
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 9105,
+		"ips": 9102,
 		"common": 24
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4834,
+		"ips": 4835,
 		"common": 16
 	},
 	{
@@ -1256,19 +1256,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 403,
+		"ips": 408,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4048,
+		"ips": 4049,
 		"common": 11
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1269,
+		"ips": 1271,
 		"common": 1
 	},
 	{
@@ -1340,7 +1340,7 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1904,
+		"ips": 1905,
 		"common": 1
 	},
 	{
@@ -1354,12 +1354,6 @@
 		"category": "reputation",
 		"ips": 25020,
 		"common": 380
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 105,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
@@ -1376,20 +1370,20 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 181,
+		"ips": 188,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 422,
-		"common": 4
+		"ips": 415,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 207,
-		"common": 4
+		"ips": 212,
+		"common": 3
 	},
 	{
 		"name": "uscert_hidden_cobra",
