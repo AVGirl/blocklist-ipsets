@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34142,
+		"ips": 34141,
 		"common": 1
 	},
 	{
@@ -548,25 +548,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1059,
+		"ips": 1074,
 		"common": 25
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2146,
-		"common": 45
+		"ips": 2124,
+		"common": 43
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 5366,
+		"ips": 5368,
 		"common": 58
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3724,
+		"ips": 3725,
 		"common": 58
 	},
 	{
@@ -618,22 +618,28 @@
 		"common": 11
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 24,
+		"common": 3
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 274,
+		"ips": 271,
 		"common": 12
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2255,
-		"common": 44
+		"ips": 2256,
+		"common": 45
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
 		"ips": 991,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "pushing_inertia_blocklist",
