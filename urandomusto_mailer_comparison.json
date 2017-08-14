@@ -1,38 +1,68 @@
 [
 	{
-		"name": "bds_atif",
+		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 2910,
+		"ips": 32352,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 1057,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 2846,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 1813,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 1233,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31325,
-		"common": 67
+		"ips": 31298,
+		"common": 69
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9698,
+		"ips": 9686,
 		"common": 66
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1882,
-		"common": 1
+		"ips": 1861,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15911,
-		"common": 67
+		"ips": 15926,
+		"common": 69
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 26250,
+		"common": 1
+	},
+	{
+		"name": "dragon_http",
+		"category": "attacks",
+		"ips": 59136,
 		"common": 1
 	},
 	{
@@ -56,26 +86,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39405,
-		"common": 68
+		"ips": 39379,
+		"common": 69
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132248,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739610,
 		"common": 66
-	},
-	{
-		"name": "greensnow",
-		"category": "attacks",
-		"ips": 1844,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -108,21 +132,15 @@
 		"common": 66
 	},
 	{
-		"name": "urandomusto_dns",
-		"category": "attacks",
-		"ips": 64,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_ftp",
-		"category": "attacks",
-		"ips": 117,
-		"common": 1
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 25020,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 103,
-		"common": 63
+		"ips": 80,
+		"common": 64
 	}
 ]
