@@ -80,25 +80,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31383,
+		"ips": 31456,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9685,
+		"ips": 9690,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1154,
+		"ips": 1157,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16007,
+		"ips": 16038,
 		"common": 1
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 507,
+		"ips": 505,
 		"common": 1
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38916,
+		"ips": 38988,
 		"common": 14
 	},
 	{
@@ -566,19 +566,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 118,
+		"ips": 120,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 105,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 116,
+		"ips": 114,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 158,
+		"ips": 154,
 		"common": 1
 	},
 	{
@@ -590,7 +596,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 205,
+		"ips": 207,
 		"common": 1
 	},
 	{

@@ -6,63 +6,33 @@
 		"common": 1
 	},
 	{
-		"name": "bi_any_2_1d",
-		"category": "attacks",
-		"ips": 937,
-		"common": 1
-	},
-	{
-		"name": "bi_any_2_30d",
-		"category": "attacks",
-		"ips": 2846,
-		"common": 1
-	},
-	{
-		"name": "bi_any_2_7d",
-		"category": "attacks",
-		"ips": 1812,
-		"common": 1
-	},
-	{
-		"name": "bi_mail_2_30d",
-		"category": "attacks",
-		"ips": 1233,
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 2910,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31383,
-		"common": 69
+		"ips": 31456,
+		"common": 66
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9685,
+		"ips": 9690,
 		"common": 66
-	},
-	{
-		"name": "blocklist_de_imap",
-		"category": "attacks",
-		"ips": 1851,
-		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16007,
-		"common": 69
+		"ips": 16038,
+		"common": 66
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 26250,
-		"common": 1
-	},
-	{
-		"name": "dragon_http",
-		"category": "attacks",
-		"ips": 59136,
 		"common": 1
 	},
 	{
@@ -86,14 +56,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38916,
-		"common": 69
+		"ips": 38988,
+		"common": 66
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132246,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -135,12 +105,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 25020,
-		"common": 3
+		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 80,
-		"common": 64
+		"ips": 105,
+		"common": 61
 	}
 ]
