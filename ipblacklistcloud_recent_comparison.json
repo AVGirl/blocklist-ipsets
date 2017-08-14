@@ -2,7 +2,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22980,
+		"ips": 22975,
 		"common": 12
 	},
 	{
@@ -14,8 +14,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382968,
-		"common": 12
+		"ips": 9382964,
+		"common": 32
 	},
 	{
 		"name": "firehol_webclient",
@@ -75,6 +75,12 @@
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
 		"ips": 223,
+		"common": 32
+	},
+	{
+		"name": "ipblacklistcloud_top",
+		"category": "abuse",
+		"ips": 232,
 		"common": 32
 	},
 	{
