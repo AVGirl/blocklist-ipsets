@@ -110,31 +110,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6733,
+		"ips": 6674,
 		"common": 2
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 41,
-		"common": 2
+		"ips": 43,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1180,
+		"ips": 1184,
 		"common": 76
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14905,
-		"common": 491
+		"ips": 14908,
+		"common": 490
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4873,
+		"ips": 4883,
 		"common": 239
 	},
 	{
@@ -146,74 +146,74 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2474,
-		"common": 50
+		"ips": 2470,
+		"common": 49
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 27330,
-		"common": 870
+		"ips": 27492,
+		"common": 872
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120809,
+		"ips": 120814,
 		"common": 2148
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 59767,
-		"common": 1673
+		"ips": 59780,
+		"common": 1676
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 495,
+		"ips": 497,
 		"common": 8
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 763,
+		"ips": 762,
 		"common": 12
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19624,
+		"ips": 19618,
 		"common": 161
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4239,
-		"common": 47
+		"ips": 4228,
+		"common": 46
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 43
+		"common": 41
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 31494,
-		"common": 892
+		"ips": 31716,
+		"common": 894
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 159206,
+		"ips": 159213,
 		"common": 2188
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 75384,
-		"common": 1700
+		"ips": 75404,
+		"common": 1703
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -248,7 +248,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6700,
+		"ips": 6670,
 		"common": 2
 	},
 	{
@@ -308,25 +308,25 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 34865,
-		"common": 925
+		"ips": 35070,
+		"common": 927
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268728,
+		"ips": 268732,
 		"common": 2232
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38835,
+		"ips": 38729,
 		"common": 3140
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38673,
+		"ips": 38675,
 		"common": 92
 	},
 	{
@@ -338,13 +338,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383128,
-		"common": 519
+		"ips": 9383130,
+		"common": 518
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26282,
+		"ips": 26283,
 		"common": 3145
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1567,
+		"ips": 1564,
 		"common": 1
 	},
 	{
@@ -792,21 +792,27 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2926,
+		"ips": 2927,
 		"common": 17
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 9130,
+		"ips": 9127,
 		"common": 31
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4861,
+		"ips": 4856,
 		"common": 26
 	},
 	{
@@ -855,25 +861,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 51
+		"common": 50
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 450,
-		"common": 157
+		"ips": 456,
+		"common": 159
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4050,
+		"ips": 4054,
 		"common": 525
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1279,
-		"common": 334
+		"ips": 1281,
+		"common": 333
 	},
 	{
 		"name": "stopforumspam",
