@@ -164,8 +164,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22381,
-		"common": 831
+		"ips": 22463,
+		"common": 833
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -254,49 +254,49 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2383,
+		"ips": 2392,
 		"common": 6
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 24580,
+		"ips": 24665,
 		"common": 63
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120650,
+		"ips": 120670,
 		"common": 290
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 59231,
+		"ips": 59235,
 		"common": 169
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 430,
+		"ips": 438,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 728,
+		"ips": 734,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19665,
+		"ips": 19670,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4296,
+		"ips": 4299,
 		"common": 2
 	},
 	{
@@ -308,19 +308,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 28003,
+		"ips": 28100,
 		"common": 71
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158958,
+		"ips": 158975,
 		"common": 431
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 74705,
+		"ips": 74709,
 		"common": 220
 	},
 	{
@@ -488,13 +488,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 31473,
+		"ips": 31615,
 		"common": 102
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268501,
+		"ips": 268517,
 		"common": 528
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382925,
+		"ips": 9383004,
 		"common": 30424
 	},
 	{
@@ -542,8 +542,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34739427,
-		"common": 1617
+		"ips": 34739549,
+		"common": 1616
 	},
 	{
 		"name": "fullbogons",
@@ -614,14 +614,14 @@
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
-		"ips": 1740,
+		"ips": 1744,
 		"common": 4
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 30302,
-		"common": 83
+		"ips": 30472,
+		"common": 82
 	},
 	{
 		"name": "hphosts_wrz",
@@ -1194,15 +1194,15 @@
 		"common": 21
 	},
 	{
-		"name": "urandomusto_ftp",
-		"category": "attacks",
-		"ips": 121,
-		"common": 2
-	},
-	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 120,
+		"ips": 189,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 66,
 		"common": 1
 	},
 	{
