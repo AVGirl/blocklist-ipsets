@@ -368,7 +368,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 505,
+		"ips": 509,
 		"common": 9
 	},
 	{
@@ -512,8 +512,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38744,
-		"common": 37
+		"ips": 38766,
+		"common": 38
 	},
 	{
 		"name": "firehol_level1",
@@ -542,8 +542,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26261,
-		"common": 31
+		"ips": 26283,
+		"common": 32
 	},
 	{
 		"name": "firehol_webclient",
@@ -1116,22 +1116,28 @@
 		"common": 1
 	},
 	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 141,
+		"common": 1
+	},
+	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 537,
-		"common": 2
+		"ips": 475,
+		"common": 3
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5279,
-		"common": 26
+		"ips": 5256,
+		"common": 27
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1737,
-		"common": 10
+		"ips": 1762,
+		"common": 11
 	},
 	{
 		"name": "sblam",
