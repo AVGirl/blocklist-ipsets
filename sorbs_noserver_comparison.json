@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23099,
+		"ips": 23139,
 		"common": 306
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227497,
+		"ips": 9227536,
 		"common": 1199
 	},
 	{
@@ -908,25 +908,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1067,
+		"ips": 1060,
 		"common": 2
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2188,
+		"ips": 2198,
 		"common": 3
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 5348,
+		"ips": 5350,
 		"common": 13
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3668,
+		"ips": 3673,
 		"common": 6
 	},
 	{
@@ -968,13 +968,13 @@
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2254,
+		"ips": 2256,
 		"common": 4
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 982,
+		"ips": 983,
 		"common": 1
 	},
 	{
@@ -1224,9 +1224,15 @@
 		"common": 104
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 189,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 441,
+		"ips": 443,
 		"common": 1
 	},
 	{

@@ -158,8 +158,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23099,
-		"common": 166
+		"ips": 23139,
+		"common": 171
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -219,7 +219,7 @@
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1214,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "ciarmy",
@@ -621,13 +621,13 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132611,
-		"common": 177
+		"common": 178
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227497,
-		"common": 939
+		"ips": 9227536,
+		"common": 944
 	},
 	{
 		"name": "firehol_proxies",
@@ -1064,25 +1064,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1067,
+		"ips": 1060,
 		"common": 1
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2188,
+		"ips": 2198,
 		"common": 2
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 5348,
+		"ips": 5350,
 		"common": 4
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3668,
+		"ips": 3673,
 		"common": 2
 	},
 	{
@@ -1136,13 +1136,13 @@
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2254,
+		"ips": 2256,
 		"common": 2
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 982,
+		"ips": 983,
 		"common": 1
 	},
 	{
@@ -1368,10 +1368,22 @@
 		"common": 46
 	},
 	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 107,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 189,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 441,
-		"common": 1
+		"ips": 443,
+		"common": 3
 	},
 	{
 		"name": "uscert_hidden_cobra",
