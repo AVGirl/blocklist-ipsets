@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22387,
+		"ips": 22370,
 		"common": 129
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1189,
+		"ips": 1184,
 		"common": 1
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4872,
+		"ips": 4873,
 		"common": 2
 	},
 	{
@@ -338,14 +338,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19310,
-		"common": 181
+		"ips": 19291,
+		"common": 178
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17486,
-		"common": 168
+		"ips": 17477,
+		"common": 166
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -368,7 +368,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 538287,
+		"ips": 538286,
 		"common": 766
 	},
 	{
@@ -602,7 +602,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29312,
+		"ips": 29417,
 		"common": 50
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38788,
+		"ips": 38794,
 		"common": 56
 	},
 	{
@@ -626,8 +626,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38966,
-		"common": 246
+		"ips": 39173,
+		"common": 249
 	},
 	{
 		"name": "firehol_level3",
@@ -638,13 +638,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382969,
+		"ips": 9382954,
 		"common": 852
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26300,
+		"ips": 26306,
 		"common": 51
 	},
 	{
@@ -686,8 +686,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1047,
-		"common": 7
+		"ips": 1331,
+		"common": 11
 	},
 	{
 		"name": "haley_ssh",
@@ -932,8 +932,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 24903,
-		"common": 71
+		"ips": 25692,
+		"common": 72
 	},
 	{
 		"name": "nt_malware_http",
@@ -1146,22 +1146,28 @@
 		"common": 1
 	},
 	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 143,
+		"common": 1
+	},
+	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 475,
-		"common": 3
+		"ips": 514,
+		"common": 4
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5256,
+		"ips": 5289,
 		"common": 9
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1762,
-		"common": 3
+		"ips": 1790,
+		"common": 4
 	},
 	{
 		"name": "sblam",
@@ -1292,7 +1298,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4662,
+		"ips": 4799,
 		"common": 25
 	},
 	{
