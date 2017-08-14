@@ -12,12 +12,6 @@
 		"common": 1
 	},
 	{
-		"name": "atlas_scans_30d",
-		"category": "attacks",
-		"ips": 99,
-		"common": 1
-	},
-	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2910,
@@ -33,7 +27,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2846,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -51,18 +45,24 @@
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 8,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31371,
-		"common": 87
+		"ips": 31265,
+		"common": 86
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 12769,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 157,
+		"ips": 158,
 		"common": 2
 	},
 	{
@@ -81,19 +81,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 120644,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 159119,
-		"common": 3
-	},
-	{
-		"name": "cruzit_web_attacks",
-		"category": "attacks",
-		"ips": 7299,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "darklist_de",
@@ -159,19 +153,19 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 268534,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38704,
+		"ips": 38706,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39109,
-		"common": 87
+		"ips": 39002,
+		"common": 86
 	},
 	{
 		"name": "firehol_level3",
@@ -183,7 +177,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9382940,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
@@ -195,7 +189,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095986,
-		"common": 33
+		"common": 32
 	},
 	{
 		"name": "greensnow",
@@ -220,12 +214,6 @@
 		"category": "reputation",
 		"ips": 26774,
 		"common": 10
-	},
-	{
-		"name": "iblocklist_cruzit_web_attacks",
-		"category": "attacks",
-		"ips": 7264,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_edu",
@@ -261,7 +249,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139017423,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -280,12 +268,6 @@
 		"category": "reputation",
 		"ips": 338744,
 		"common": 3
-	},
-	{
-		"name": "jigsaw_attacks",
-		"category": "attacks",
-		"ips": 27109,
-		"common": 1
 	},
 	{
 		"name": "jigsaw_malware",
@@ -363,12 +345,12 @@
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 212,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30610,
-		"common": 55
+		"common": 54
 	}
 ]
