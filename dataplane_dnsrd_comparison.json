@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 73
+		"common": 72
 	},
 	{
 		"name": "atlas_attacks",
@@ -39,49 +39,49 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2910,
-		"common": 66
+		"common": 65
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 811,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2851,
-		"common": 27
+		"common": 26
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 1813,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 62,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 118,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 1233,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 1497,
-		"common": 27
+		"common": 26
 	},
 	{
 		"name": "blocklist_de",
@@ -117,18 +117,18 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 24782,
-		"common": 139
+		"common": 134
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120676,
+		"ips": 120692,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158987,
+		"ips": 159007,
 		"common": 2
 	},
 	{
@@ -146,20 +146,20 @@
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 304,
-		"common": 304
+		"ips": 300,
+		"common": 300
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 448,
-		"common": 103
+		"ips": 447,
+		"common": 102
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19137,
-		"common": 70
+		"common": 69
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -201,19 +201,19 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 7424,
-		"common": 120
+		"common": 119
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29952,
-		"common": 209
+		"common": 208
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 12800,
-		"common": 172
+		"common": 171
 	},
 	{
 		"name": "et_block",
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268531,
+		"ips": 268559,
 		"common": 2
 	},
 	{
@@ -243,13 +243,13 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 38389,
-		"common": 140
+		"common": 139
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 131483,
-		"common": 278
+		"common": 273
 	},
 	{
 		"name": "firehol_level4",
@@ -261,7 +261,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739591,
-		"common": 194
+		"common": 190
 	},
 	{
 		"name": "greensnow",
@@ -285,7 +285,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 26774,
-		"common": 162
+		"common": 157
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -315,7 +315,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139017423,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -327,13 +327,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 60
+		"common": 59
 	},
 	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "packetmail",
@@ -363,7 +363,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 194
+		"common": 190
 	},
 	{
 		"name": "snort_ipfilter",
@@ -393,7 +393,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11990,
-		"common": 71
+		"common": 68
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -417,7 +417,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 25020,
-		"common": 281
+		"common": 277
 	},
 	{
 		"name": "urandomusto_dns",
@@ -465,6 +465,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30610,
-		"common": 87
+		"common": 86
 	}
 ]
