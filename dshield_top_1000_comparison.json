@@ -12,15 +12,21 @@
 		"common": 3
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31754,
+		"common": 14
+	},
+	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 545,
-		"common": 3
+		"ips": 547,
+		"common": 4
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12944,
+		"ips": 13042,
 		"common": 10
 	},
 	{
@@ -94,6 +100,12 @@
 		"category": "abuse",
 		"ips": 268701,
 		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39927,
+		"common": 14
 	},
 	{
 		"name": "firehol_level3",

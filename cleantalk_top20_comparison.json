@@ -1,8 +1,14 @@
 [
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31754,
+		"common": 6
+	},
+	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 417,
+		"ips": 419,
 		"common": 6
 	},
 	{
@@ -106,6 +112,12 @@
 		"category": "abuse",
 		"ips": 268701,
 		"common": 20
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39927,
+		"common": 6
 	},
 	{
 		"name": "firehol_level4",

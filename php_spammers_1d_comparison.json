@@ -42,6 +42,18 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31754,
+		"common": 50
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 16279,
+		"common": 50
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 22340,
@@ -212,8 +224,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38669,
+		"ips": 38670,
 		"common": 41
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39927,
+		"common": 50
 	},
 	{
 		"name": "firehol_level3",
@@ -230,7 +248,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26261,
+		"ips": 26262,
 		"common": 36
 	},
 	{
@@ -344,8 +362,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 15627,
-		"common": 24
+		"ips": 15645,
+		"common": 23
 	},
 	{
 		"name": "packetmail_emerging_ips",
