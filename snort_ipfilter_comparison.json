@@ -20,7 +20,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 130,
+		"ips": 124,
 		"common": 1
 	},
 	{
@@ -44,8 +44,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 747,
-		"common": 32
+		"ips": 718,
+		"common": 31
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22494,
+		"ips": 22532,
 		"common": 47
 	},
 	{
@@ -195,13 +195,13 @@
 		"name": "botscout",
 		"category": "abuse",
 		"ips": 54,
-		"common": 6
+		"common": 3
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1214,
-		"common": 177
+		"ips": 1229,
+		"common": 175
 	},
 	{
 		"name": "botscout_30d",
@@ -212,7 +212,7 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4867,
+		"ips": 4866,
 		"common": 442
 	},
 	{
@@ -512,8 +512,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 30878,
-		"common": 594
+		"ips": 30885,
+		"common": 593
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38805,
+		"ips": 38808,
 		"common": 894
 	},
 	{
@@ -536,25 +536,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38927,
-		"common": 100
+		"ips": 38934,
+		"common": 101
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131464,
+		"ips": 131476,
 		"common": 9708
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383050,
+		"ips": 9383079,
 		"common": 609
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26284,
+		"ips": 26287,
 		"common": 176
 	},
 	{
@@ -590,8 +590,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1538,
-		"common": 9
+		"ips": 1548,
+		"common": 10
 	},
 	{
 		"name": "haley_ssh",
@@ -912,16 +912,10 @@
 		"common": 1
 	},
 	{
-		"name": "packetmail_mail",
-		"category": "reputation",
-		"ips": 112,
-		"common": 1
-	},
-	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2081,
-		"common": 1
+		"ips": 2143,
+		"common": 2
 	},
 	{
 		"name": "php_commenters",
