@@ -255,7 +255,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 30515,
-		"common": 3004
+		"common": 3001
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -303,7 +303,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 12681,
-		"common": 1383
+		"common": 1380
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -314,8 +314,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22366,
-		"common": 22366
+		"ips": 22361,
+		"common": 22361
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -579,13 +579,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19160,
-		"common": 2117
+		"common": 2116
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 17331,
-		"common": 1897
+		"common": 1896
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -908,7 +908,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38811,
+		"ips": 38799,
 		"common": 2688
 	},
 	{
@@ -921,7 +921,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 38880,
-		"common": 3316
+		"common": 3313
 	},
 	{
 		"name": "firehol_level3",
@@ -932,7 +932,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26290,
+		"ips": 26278,
 		"common": 2190
 	},
 	{
@@ -1455,7 +1455,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3240,
-		"common": 152
+		"common": 151
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1731,25 +1731,25 @@
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
 		"ips": 143,
-		"common": 50
+		"common": 60
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 514,
-		"common": 146
+		"ips": 406,
+		"common": 130
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5289,
-		"common": 1031
+		"ips": 5251,
+		"common": 1032
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1790,
-		"common": 427
+		"ips": 1758,
+		"common": 416
 	},
 	{
 		"name": "sblam",
@@ -1803,7 +1803,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 28706
+		"common": 28704
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -2072,7 +2072,7 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 146,
+		"ips": 137,
 		"common": 41
 	},
 	{
@@ -2084,8 +2084,8 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 269,
-		"common": 55
+		"ips": 264,
+		"common": 54
 	},
 	{
 		"name": "yoyo_adservers",
