@@ -3,7 +3,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 371,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "bogons",
@@ -21,7 +21,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652472555,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "fullbogons",
@@ -54,15 +54,9 @@
 		"common": 5
 	},
 	{
-		"name": "iblocklist_isp_comcast",
-		"category": "organizations",
-		"ips": 45121536,
-		"common": 1
-	},
-	{
-		"name": "sorbs_dul",
-		"category": "spam",
-		"ips": 375226662,
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346612427,
 		"common": 1
 	}
 ]
