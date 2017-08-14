@@ -12,12 +12,6 @@
 		"common": 1
 	},
 	{
-		"name": "bds_atif",
-		"category": "reputation",
-		"ips": 2910,
-		"common": 1
-	},
-	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 843,
@@ -50,26 +44,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31265,
-		"common": 86
-	},
-	{
-		"name": "blocklist_de_ssh",
-		"category": "attacks",
-		"ips": 12769,
-		"common": 1
+		"ips": 31307,
+		"common": 84
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 158,
 		"common": 2
-	},
-	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 1205,
-		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -110,14 +92,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19253,
-		"common": 5
+		"ips": 19202,
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17443,
-		"common": 5
+		"ips": 17393,
+		"common": 4
 	},
 	{
 		"name": "dragon_http",
@@ -144,12 +126,6 @@
 		"common": 1
 	},
 	{
-		"name": "et_compromised",
-		"category": "attacks",
-		"ips": 1133,
-		"common": 1
-	},
-	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 268559,
@@ -164,32 +140,32 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39005,
-		"common": 86
+		"ips": 39046,
+		"common": 84
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 130949,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9382974,
-		"common": 7
+		"ips": 9382957,
+		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739427,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095986,
-		"common": 32
+		"common": 30
 	},
 	{
 		"name": "greensnow",
@@ -201,7 +177,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 22374,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -276,28 +252,28 @@
 		"common": 2
 	},
 	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 1277221,
+		"common": 1
+	},
+	{
 		"name": "myip",
 		"category": "abuse",
 		"ips": 3389,
 		"common": 1
 	},
 	{
-		"name": "packetmail",
-		"category": "reputation",
-		"ips": 3240,
-		"common": 1
-	},
-	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "sorbs_web",
@@ -351,6 +327,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30610,
-		"common": 54
+		"common": 56
 	}
 ]
