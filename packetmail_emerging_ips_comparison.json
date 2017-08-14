@@ -168,6 +168,12 @@
 		"common": 2
 	},
 	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 538288,
+		"common": 1
+	},
+	{
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
@@ -248,14 +254,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9383145,
+		"ips": 9383211,
 		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739702,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "gofferje_sip",
@@ -285,7 +291,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26674,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_exp",
@@ -345,7 +351,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 653801891,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
