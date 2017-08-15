@@ -12,6 +12,18 @@
 		"common": 7
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29367,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 14520,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 23358,
@@ -86,7 +98,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 541418,
+		"ips": 541471,
 		"common": 1
 	},
 	{
@@ -112,6 +124,12 @@
 		"category": "attacks",
 		"ips": 652469994,
 		"common": 6
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39033,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
