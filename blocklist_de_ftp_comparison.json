@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29378,
-		"common": 554
+		"ips": 29423,
+		"common": 555
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -266,8 +266,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39253,
-		"common": 554
+		"ips": 39297,
+		"common": 555
 	},
 	{
 		"name": "firehol_level3",
@@ -468,10 +468,16 @@
 		"common": 1
 	},
 	{
+		"name": "sorbs_anonymizers",
+		"category": "spam",
+		"ips": 609175,
+		"common": 1
+	},
+	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 38
+		"common": 39
 	},
 	{
 		"name": "sorbs_new_spam",
