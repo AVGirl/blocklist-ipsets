@@ -104,13 +104,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29441,
-		"common": 4979
+		"ips": 29378,
+		"common": 4960
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9592,
+		"ips": 9593,
 		"common": 159
 	},
 	{
@@ -122,32 +122,32 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 566,
-		"common": 12
+		"ips": 562,
+		"common": 11
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1563,
+		"ips": 1545,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14547,
+		"ips": 14527,
 		"common": 42
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 133,
+		"ips": 134,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12465,
-		"common": 4761
+		"ips": 12421,
+		"common": 4743
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -158,8 +158,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23414,
-		"common": 820
+		"ips": 23437,
+		"common": 819
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -200,25 +200,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 47,
-		"common": 8
+		"ips": 36,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1084,
-		"common": 106
+		"ips": 1080,
+		"common": 105
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14901,
+		"ips": 14907,
 		"common": 282
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4811,
+		"ips": 4810,
 		"common": 238
 	},
 	{
@@ -242,62 +242,62 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2965,
-		"common": 8
+		"ips": 3021,
+		"common": 6
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 31893,
+		"ips": 32036,
 		"common": 114
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121265,
+		"ips": 121312,
 		"common": 435
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60158,
-		"common": 267
+		"ips": 60173,
+		"common": 268
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19983,
+		"ips": 20042,
 		"common": 28
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4590,
+		"ips": 4647,
 		"common": 5
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 8
+		"common": 6
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 36911,
+		"ips": 37056,
 		"common": 127
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 159446,
+		"ips": 159451,
 		"common": 485
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 75353,
-		"common": 308
+		"ips": 75312,
+		"common": 309
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -356,7 +356,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6665,
+		"ips": 6650,
 		"common": 268
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 542208,
+		"ips": 542283,
 		"common": 154
 	},
 	{
@@ -584,19 +584,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39567,
-		"common": 295
+		"ips": 39726,
+		"common": 296
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 269298,
+		"ips": 269355,
 		"common": 561
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38645,
+		"ips": 38585,
 		"common": 279
 	},
 	{
@@ -608,8 +608,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39110,
-		"common": 5059
+		"ips": 39054,
+		"common": 5040
 	},
 	{
 		"name": "firehol_level3",
@@ -620,8 +620,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227780,
-		"common": 2074
+		"ips": 9227804,
+		"common": 2073
 	},
 	{
 		"name": "firehol_proxies",
@@ -662,8 +662,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1892,
-		"common": 174
+		"ips": 1897,
+		"common": 175
 	},
 	{
 		"name": "haley_ssh",
