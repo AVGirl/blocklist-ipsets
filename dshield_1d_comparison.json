@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23125,
+		"ips": 23138,
 		"common": 2
 	},
 	{
@@ -375,13 +375,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 30464,
-		"common": 8448
+		"common": 8704
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 12800,
-		"common": 8448
+		"ips": 12544,
+		"common": 8704
 	},
 	{
 		"name": "dshield_top_1000",
@@ -399,7 +399,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24518998,
-		"common": 3073
+		"common": 3329
 	},
 	{
 		"name": "et_compromised",
@@ -411,7 +411,7 @@
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 3072
+		"common": 3328
 	},
 	{
 		"name": "et_tor",
@@ -459,12 +459,12 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132859,
-		"common": 8448
+		"common": 8704
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227529,
+		"ips": 9227550,
 		"common": 39
 	},
 	{
@@ -633,7 +633,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3369,
-		"common": 143
+		"common": 149
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -651,7 +651,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2272,
-		"common": 87
+		"common": 90
 	},
 	{
 		"name": "php_commenters_30d",
@@ -819,7 +819,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 25020,
-		"common": 490
+		"common": 617
 	},
 	{
 		"name": "urandomusto_dns",
