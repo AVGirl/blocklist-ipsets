@@ -68,7 +68,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 389,
+		"ips": 396,
 		"common": 3
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 505,
+		"ips": 503,
 		"common": 5
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 538476,
+		"ips": 538525,
 		"common": 4
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 70,
+		"ips": 72,
 		"common": 3
 	},
 	{
@@ -304,6 +304,18 @@
 		"category": "attacks",
 		"ips": 115,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 336,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 442,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
