@@ -62,8 +62,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 461,
-		"common": 6
+		"ips": 464,
+		"common": 7
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -98,43 +98,43 @@
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
-		"ips": 1497,
+		"ips": 1490,
 		"common": 30
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 8346,
+		"ips": 8341,
 		"common": 12
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 3586,
+		"ips": 3585,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7418,
+		"ips": 7415,
 		"common": 10
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9161,
+		"ips": 9157,
 		"common": 10
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29108,
+		"ips": 29102,
 		"common": 14
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14342,
+		"ips": 14341,
 		"common": 11
 	},
 	{
@@ -188,8 +188,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23422,
-		"common": 9
+		"ips": 23451,
+		"common": 8
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -374,13 +374,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19001,
-		"common": 82
+		"ips": 19029,
+		"common": 83
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17149,
+		"ips": 17165,
 		"common": 18
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 540296,
+		"ips": 540388,
 		"common": 78
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38345,
+		"ips": 38389,
 		"common": 18
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470001,
+		"ips": 652470000,
 		"common": 5889
 	},
 	{
@@ -548,8 +548,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227786,
-		"common": 206
+		"ips": 9227813,
+		"common": 205
 	},
 	{
 		"name": "firehol_proxies",
@@ -782,8 +782,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 6754,
-		"common": 10
+		"ips": 6417,
+		"common": 8
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -848,7 +848,7 @@
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 5347,
+		"ips": 5344,
 		"common": 1
 	},
 	{
@@ -980,7 +980,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4625,
+		"ips": 4733,
 		"common": 11
 	},
 	{
@@ -1076,20 +1076,8 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 118,
+		"ips": 121,
 		"common": 14
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 96,
-		"common": 3
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 65,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1112,26 +1100,26 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 447,
-		"common": 2
+		"ips": 445,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 443,
-		"common": 5
+		"ips": 445,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 149,
+		"ips": 151,
 		"common": 7
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 16,
-		"common": 3
+		"ips": 18,
+		"common": 4
 	},
 	{
 		"name": "urlvir",

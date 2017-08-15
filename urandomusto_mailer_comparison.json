@@ -1,140 +1,62 @@
 [
 	{
-		"name": "alienvault_reputation",
-		"category": "reputation",
-		"ips": 32352,
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 29369,
-		"common": 62
+		"common": 60
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8244,
-		"common": 56
+		"common": 57
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 1589,
-		"common": 4
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 14537,
-		"common": 62
-	},
-	{
-		"name": "dataplane_dnsrd",
-		"category": "attacks",
-		"ips": 397,
-		"common": 1
-	},
-	{
-		"name": "dataplane_dnsversion",
-		"category": "attacks",
-		"ips": 302,
-		"common": 1
-	},
-	{
-		"name": "dataplane_sipquery",
-		"category": "attacks",
-		"ips": 453,
-		"common": 1
-	},
-	{
-		"name": "dataplane_sshclient",
-		"category": "attacks",
-		"ips": 19001,
-		"common": 1
-	},
-	{
-		"name": "dataplane_vncrfb",
-		"category": "attacks",
-		"ips": 503,
-		"common": 1
+		"common": 60
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 540296,
-		"common": 1
-	},
-	{
-		"name": "dshield_30d",
-		"category": "attacks",
-		"ips": 30464,
-		"common": 1
-	},
-	{
-		"name": "dshield_7d",
-		"category": "attacks",
-		"ips": 12544,
+		"ips": 540388,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 39293,
-		"common": 62
-	},
-	{
-		"name": "firehol_level3",
-		"category": "attacks",
-		"ips": 132850,
-		"common": 1
-	},
-	{
-		"name": "firehol_webserver",
-		"category": "attacks",
-		"ips": 34739702,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_level1",
-		"category": "reputation",
-		"ips": 762689367,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_level2",
-		"category": "reputation",
-		"ips": 346611362,
-		"common": 1
+		"common": 60
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1282377,
-		"common": 1
-	},
-	{
-		"name": "packetmail",
-		"category": "reputation",
-		"ips": 3377,
-		"common": 1
-	},
-	{
-		"name": "pushing_inertia_blocklist",
-		"category": "reputation",
-		"ips": 34512264,
-		"common": 1
-	},
-	{
-		"name": "turris_greylist",
-		"category": "reputation",
-		"ips": 25020,
 		"common": 2
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 6417,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 96,
-		"common": 50
+		"ips": 60,
+		"common": 56
 	}
 ]

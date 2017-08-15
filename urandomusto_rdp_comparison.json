@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 461,
+		"ips": 464,
 		"common": 1
 	},
 	{
@@ -38,7 +38,7 @@
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
-		"ips": 1497,
+		"ips": 1490,
 		"common": 2
 	},
 	{
@@ -63,7 +63,25 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 24782,
-		"common": 18
+		"common": 19
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 120984,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 19699,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 159408,
+		"common": 1
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -86,7 +104,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19001,
+		"ips": 19029,
 		"common": 2
 	},
 	{
@@ -150,9 +168,15 @@
 		"common": 3
 	},
 	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 268987,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470001,
+		"ips": 652470000,
 		"common": 10
 	},
 	{
@@ -165,19 +189,19 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132850,
-		"common": 25
+		"common": 26
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227786,
+		"ips": 9227813,
 		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739702,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "gofferje_sip",
@@ -207,7 +231,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 26202,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "iblocklist_edu",
@@ -231,7 +255,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346611362,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "iblocklist_level3",
@@ -279,7 +303,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3377,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -303,7 +327,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "sorbs_dul",
@@ -327,7 +351,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11990,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "trustedsec_atif",
@@ -348,16 +372,22 @@
 		"common": 3
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 96,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 101,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

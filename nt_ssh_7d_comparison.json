@@ -26,7 +26,7 @@
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
-		"ips": 1497,
+		"ips": 1490,
 		"common": 1
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23422,
+		"ips": 23451,
 		"common": 4
 	},
 	{
@@ -134,13 +134,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19001,
+		"ips": 19029,
 		"common": 9
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17149,
+		"ips": 17165,
 		"common": 6
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 540296,
+		"ips": 540388,
 		"common": 2
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38345,
+		"ips": 38389,
 		"common": 1
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470001,
+		"ips": 652470000,
 		"common": 1
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227786,
+		"ips": 9227813,
 		"common": 14
 	},
 	{
@@ -454,6 +454,12 @@
 		"category": "reputation",
 		"ips": 25020,
 		"common": 9
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

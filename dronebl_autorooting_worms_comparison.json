@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 461,
+		"ips": 464,
 		"common": 8
 	},
 	{
@@ -50,13 +50,13 @@
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
-		"ips": 1497,
-		"common": 32
+		"ips": 1490,
+		"common": 31
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29108,
+		"ips": 29102,
 		"common": 1
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23422,
+		"ips": 23451,
 		"common": 5
 	},
 	{
@@ -152,13 +152,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19001,
+		"ips": 19029,
 		"common": 32
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 17149,
+		"ips": 17165,
 		"common": 28
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470001,
+		"ips": 652470000,
 		"common": 73
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227786,
+		"ips": 9227813,
 		"common": 508
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 6754,
+		"ips": 6417,
 		"common": 1
 	},
 	{
@@ -514,6 +514,12 @@
 		"category": "reputation",
 		"ips": 25020,
 		"common": 19
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
