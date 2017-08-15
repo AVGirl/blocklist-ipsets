@@ -44,19 +44,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29477,
+		"ips": 29410,
 		"common": 63
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12511,
+		"ips": 12482,
 		"common": 63
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 158,
+		"ips": 159,
 		"common": 1
 	},
 	{
@@ -72,15 +72,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 45,
+		"common": 1
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1099,
+		"common": 1
+	},
+	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14896,
+		"ips": 14893,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4833,
+		"ips": 4825,
 		"common": 1
 	},
 	{
@@ -98,19 +110,19 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121014,
+		"ips": 121101,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19718,
+		"ips": 19794,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 159436,
+		"ips": 159460,
 		"common": 3
 	},
 	{
@@ -134,13 +146,13 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6616,
+		"ips": 6644,
 		"common": 1
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 540831,
+		"ips": 540890,
 		"common": 1
 	},
 	{
@@ -212,19 +224,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38572,
+		"ips": 38750,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 269025,
+		"ips": 269109,
 		"common": 3
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38564,
+		"ips": 38664,
 		"common": 1
 	},
 	{
@@ -236,7 +248,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39152,
+		"ips": 39080,
 		"common": 69
 	},
 	{
@@ -248,7 +260,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227876,
+		"ips": 9227873,
 		"common": 31
 	},
 	{
@@ -266,7 +278,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1885,
+		"ips": 1880,
 		"common": 7
 	},
 	{
