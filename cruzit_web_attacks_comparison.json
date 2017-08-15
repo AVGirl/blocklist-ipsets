@@ -32,7 +32,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 465,
+		"ips": 464,
 		"common": 14
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23391,
+		"ips": 23403,
 		"common": 49
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 541141,
+		"ips": 541261,
 		"common": 64
 	},
 	{
@@ -464,13 +464,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38661,
+		"ips": 38657,
 		"common": 55
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470000,
+		"ips": 652469994,
 		"common": 35
 	},
 	{
@@ -488,13 +488,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227752,
+		"ips": 9227764,
 		"common": 7300
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26173,
+		"ips": 26169,
 		"common": 38
 	},
 	{
@@ -1194,9 +1194,15 @@
 		"common": 21
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 151,
+		"ips": 152,
 		"common": 1
 	},
 	{

@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 374,
+		"ips": 368,
 		"common": 1
 	},
 	{
@@ -44,8 +44,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 465,
-		"common": 41
+		"ips": 464,
+		"common": 40
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23391,
+		"ips": 23403,
 		"common": 77
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 541141,
+		"ips": 541261,
 		"common": 200
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2898,
+		"ips": 2897,
 		"common": 3
 	},
 	{
@@ -530,13 +530,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38661,
+		"ips": 38657,
 		"common": 893
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470000,
+		"ips": 652469994,
 		"common": 101
 	},
 	{
@@ -554,13 +554,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227752,
+		"ips": 9227764,
 		"common": 606
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26173,
+		"ips": 26169,
 		"common": 175
 	},
 	{
@@ -1246,6 +1246,12 @@
 		"category": "reputation",
 		"ips": 25020,
 		"common": 27
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 64,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",

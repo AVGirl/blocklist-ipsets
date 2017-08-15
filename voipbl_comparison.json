@@ -80,8 +80,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 465,
-		"common": 70
+		"ips": 464,
+		"common": 69
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -224,7 +224,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23391,
+		"ips": 23403,
 		"common": 90
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 541141,
+		"ips": 541261,
 		"common": 166
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2898,
+		"ips": 2897,
 		"common": 2
 	},
 	{
@@ -632,13 +632,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38661,
+		"ips": 38657,
 		"common": 622
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652470000,
+		"ips": 652469994,
 		"common": 94
 	},
 	{
@@ -656,13 +656,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227752,
+		"ips": 9227764,
 		"common": 760
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26173,
+		"ips": 26169,
 		"common": 142
 	},
 	{
@@ -1286,7 +1286,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4012,
+		"ips": 4008,
 		"common": 1
 	},
 	{
@@ -1400,19 +1400,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 121,
+		"ips": 123,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 114,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 101,
+		"ips": 99,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 160,
+		"ips": 157,
 		"common": 1
 	},
 	{
@@ -1422,16 +1428,22 @@
 		"common": 6
 	},
 	{
-		"name": "urandomusto_telnet",
+		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 445,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 440,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 151,
-		"common": 20
+		"ips": 152,
+		"common": 21
 	},
 	{
 		"name": "uscert_hidden_cobra",
