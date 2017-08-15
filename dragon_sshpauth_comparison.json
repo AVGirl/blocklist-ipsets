@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 440,
+		"ips": 441,
 		"common": 4
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23466,
+		"ips": 23462,
 		"common": 2
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "et_block",
 		"category": "attacks",
-		"ips": 24518998,
+		"ips": 24582748,
 		"common": 22
 	},
 	{
@@ -200,19 +200,19 @@
 	{
 		"name": "et_spamhaus",
 		"category": "attacks",
-		"ips": 24512768,
+		"ips": 24576512,
 		"common": 21
 	},
 	{
 		"name": "et_tor",
 		"category": "anonymizers",
-		"ips": 6670,
+		"ips": 6640,
 		"common": 1
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38748,
+		"ips": 38743,
 		"common": 1
 	},
 	{
@@ -376,6 +376,12 @@
 		"category": "spam",
 		"ips": 1282377,
 		"common": 3
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 6315,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
