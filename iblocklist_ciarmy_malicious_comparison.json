@@ -98,49 +98,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29420,
-		"common": 263
+		"ips": 29336,
+		"common": 262
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9658,
-		"common": 107
+		"ips": 9633,
+		"common": 106
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 420,
+		"ips": 422,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 557,
+		"ips": 551,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1609,
+		"ips": 1596,
 		"common": 21
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14501,
+		"ips": 14489,
 		"common": 30
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 131,
+		"ips": 130,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12434,
+		"ips": 12392,
 		"common": 102
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23423,
+		"ips": 23407,
 		"common": 7
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 538370,
+		"ips": 538413,
 		"common": 29
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 268844,
+		"ips": 268843,
 		"common": 74
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9227792,
+		"ips": 9227776,
 		"common": 112
 	},
 	{
@@ -762,9 +762,27 @@
 		"common": 532
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 96,
+		"common": 1
+	},
+	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 830,
+		"ips": 834,
+		"common": 2
+	},
+	{
+		"name": "php_commenters_7d",
+		"category": "spam",
+		"ips": 298,
 		"common": 1
 	},
 	{
